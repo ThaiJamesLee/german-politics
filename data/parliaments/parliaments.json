@@ -1,20 +1,26 @@
-[
-  "Landtag Schleswig-Holstein",
-  "Landtag Sachsen",
-  "Landtag Brandenburg",
-  "Landtag Thüringen",
-  "Landtag Saarland",
-  "Landtag Bayern",
-  "Landtag Niedersachsen",
-  "Landtag Hessen",
-  "Bürgerschaft Bremen",
-  "Landtag Mecklenburg-Vorpommern",
-  "Landtag Sachsen-Anhalt",
-  "Landtag Rheinland-Pfalz",
-  "Landtag Baden-Württemberg",
-  "Bundestag",
-  "Landtag Nordrhein-Westfalen",
-  "Bürgerschaft Hamburg",
-  "Abgeordnetenhaus Berlin",
-  "EU-Parlament"
-]
+{
+  "other": [
+    "Bundestag",
+    "Abgeordnetenhaus Berlin",
+    "EU-Parlament"
+  ],
+  "landtage": [
+    "Landtag Schleswig-Holstein",
+    "Landtag Sachsen",
+    "Landtag Brandenburg",
+    "Landtag Thüringen",
+    "Landtag Saarland",
+    "Landtag Bayern",
+    "Landtag Niedersachsen",
+    "Landtag Hessen",
+    "Landtag Mecklenburg-Vorpommern",
+    "Landtag Sachsen-Anhalt",
+    "Landtag Rheinland-Pfalz",
+    "Landtag Baden-Württemberg",
+    "Landtag Nordrhein-Westfalen"
+  ],
+  "buergerschaften": [
+    "Bürgerschaft Bremen",
+    "Bürgerschaft Hamburg"
+  ]
+}
