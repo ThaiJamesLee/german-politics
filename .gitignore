@@ -2,3 +2,4 @@ node_modules
 dist
 reports
 packages/**/data
+build
