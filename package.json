@@ -1,0 +1,21 @@
+{
+	"name": "german-politics",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npx http-server --port 4000"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.4.2",
+		"@typescript-eslint/eslint-plugin": "^6.1.0",
+		"eslint": "^8.45.0",
+		"ts-node-dev": "^2.0.0",
+		"typescript": "^5.1.6"
+	},
+	"dependencies": {
+		"http-server": "^14.1.1"
+	}
+}
