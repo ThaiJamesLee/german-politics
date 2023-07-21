@@ -1,16 +1,7 @@
+import { BaseObject } from './base';
 import { EntityTypeEnum } from './entity';
 
-interface Identifiable {
-  id: number;
-}
-
-interface BaseObject extends Identifiable {
-  label: string;
-  api_url: string;
-  abgeordnetenwatch_url: string;
-}
-
-type ParliamentPeriodLink = BaseObject & {
+export type ParliamentPeriodLink = BaseObject & {
   entity_type: EntityTypeEnum.parliamentPeriod;
 };
 

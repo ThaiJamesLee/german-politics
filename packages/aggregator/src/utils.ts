@@ -1,6 +1,6 @@
+import { dirname, join } from 'path';
 import fetch, { RequestInfo, RequestInit } from 'node-fetch';
 
-import { dirname } from 'path';
 import { existsSync } from 'fs';
 import fsPromise from 'fs/promises';
 
@@ -25,4 +25,16 @@ export async function writeFile(
   }
 
   await fsPromise.writeFile(filePath, content);
+}
+
+export async function writeFileAndArchive(
+  date: string,
+  content: string,
+  fileName: string,
+  basePath = '',
+): Promise<void> {
+  Promise.all([
+    writeFile(content, join(basePath, fileName)),
+    writeFile(content, join(basePath, date, fileName)),
+  ]);
 }

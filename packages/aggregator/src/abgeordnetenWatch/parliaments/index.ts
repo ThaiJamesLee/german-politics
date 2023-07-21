@@ -1,18 +1,32 @@
-import { customFetch, writeFile } from '../../utils';
+import { customFetch, writeFileAndArchive } from '../../utils';
 
 import { ParliamentResult } from '../types';
 import { join } from 'path';
 
-async function writeFileAndArchive(
-  date: string,
-  content: string,
-  fileName: string,
-  basePath = join(__dirname, '..', '..', '..', 'data', 'parliaments'),
+const basePath = join(__dirname, '..', '..', '..', 'data', 'parliaments');
+
+async function getListOfParliaments(
+  parliaments: ParliamentResult,
+  today: string,
 ): Promise<void> {
-  Promise.all([
-    writeFile(content, join(basePath, fileName)),
-    writeFile(content, join(basePath, date, fileName)),
-  ]);
+  const list = parliaments.data.map(entry => entry.label_external_long);
+  await writeFileAndArchive(
+    today,
+    JSON.stringify(
+      {
+        other: list.filter(
+          entry =>
+            !entry.startsWith('Landtag') && !entry.startsWith('Bürgerschaft'),
+        ),
+        landtage: list.filter(entry => entry.startsWith('Landtag')),
+        buergerschaften: list.filter(entry => entry.startsWith('Bürgerschaft')),
+      },
+      null,
+      2,
+    ),
+    'parliaments.json',
+    basePath,
+  );
 }
 
 export async function fetchParliaments(): Promise<void> {
@@ -22,15 +36,13 @@ export async function fetchParliaments(): Promise<void> {
     'https://www.abgeordnetenwatch.de/api/v2/parliaments',
   );
 
-  const list = parliaments.data.map(entry => entry.label_external_long);
-  await writeFileAndArchive(
-    today,
-    JSON.stringify(parliaments, null, 2),
-    'source.json',
-  );
-  await writeFileAndArchive(
-    today,
-    JSON.stringify(list, null, 2),
-    'parliaments.json',
-  );
+  await Promise.all([
+    getListOfParliaments(parliaments, today),
+    writeFileAndArchive(
+      today,
+      JSON.stringify(parliaments, null, 2),
+      'source.json',
+      basePath,
+    ),
+  ]);
 }

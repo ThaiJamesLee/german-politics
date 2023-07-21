@@ -1,5 +1,6 @@
 import { fetchParliaments } from './parliaments';
+import { fetchPoliticians } from './politicians';
 
 (async (): Promise<void> => {
-  await fetchParliaments();
+  await Promise.all([fetchParliaments(), fetchPoliticians()]);
 })();
