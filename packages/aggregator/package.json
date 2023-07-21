@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "",
+    "start": "ts-node-dev ./src/abgeordnetenWatch/index.ts",
     "tsc": "npx tsc",
     "deploy": "gh-pages -a -t -d build"
   },
