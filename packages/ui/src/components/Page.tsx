@@ -6,12 +6,31 @@ import {
   ShellBarItem,
   StandardListItem,
 } from "@ui5/webcomponents-react";
+import React, { useCallback } from "react";
 
-import React from "react";
+import { fetchParliaments } from "./fetchParliamentData";
+import { useQuery } from "react-query";
 
 const Page: React.FunctionComponent<{ children: React.ReactNode }> = (props: {
   children: React.ReactNode;
 }) => {
+  const parliaments = useQuery("parliaments", fetchParliaments);
+
+  const getMenuItems = useCallback(() => {
+    if (!parliaments.data) return <></>;
+    return (
+      <>
+        {parliaments.data.other.map((entry) => {
+          return (
+            <StandardListItem key={entry.parliament}>
+              {entry.externalName}
+            </StandardListItem>
+          );
+        })}
+      </>
+    );
+  }, [parliaments]);
+
   return (
     <div>
       <ShellBar
@@ -21,30 +40,13 @@ const Page: React.FunctionComponent<{ children: React.ReactNode }> = (props: {
             src="https://sap.github.io/ui5-webcomponents/assets/images/sap-logo-svg.svg"
           />
         }
-        menuItems={
-          <>
-            <StandardListItem data-key="1">Menu Item 1</StandardListItem>
-            <StandardListItem data-key="2">Menu Item 2</StandardListItem>
-            <StandardListItem data-key="3">Menu Item 3</StandardListItem>
-          </>
-        }
-        notificationsCount="10"
+        menuItems={<>{getMenuItems()}</>}
         primaryTitle="Shell Bar"
-        profile={
-          <Avatar>
-            <img src="https://sap.github.io/ui5-webcomponents-react/assets/Person-eb847016.png" />
-          </Avatar>
-        }
         searchField={
           <Input icon={<Icon interactive name="search" />} showClearIcon />
         }
         secondaryTitle="Fiori 3 Shell Bar"
-        showCoPilot
-        showNotifications
-        showProductSwitch
-      >
-        <ShellBarItem count="3" icon="add" text="ShellBarItem" />
-      </ShellBar>
+      ></ShellBar>
       {props.children}
     </div>
   );

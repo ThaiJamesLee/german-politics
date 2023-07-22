@@ -1,15 +1,19 @@
 import "./App.css";
 
-import Page from "./components/Page";
+import { QueryClient, QueryClientProvider } from "react-query";
+
+import Home from "./home/Home";
 import React from "react";
+
+const queryClient = new QueryClient();
 
 function App() {
   return (
-    <div className="App">
-      <Page>
-        <div>Hello World!</div>
-      </Page>
-    </div>
+    <QueryClientProvider client={queryClient} contextSharing={true}>
+      <div className="App">
+        <Home></Home>
+      </div>
+    </QueryClientProvider>
   );
 }
 

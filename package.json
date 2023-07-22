@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "npx http-server --port 4000 http-server --proxy http://localhost:4000?"
+		"start": "npx http-server --port 4000 --proxy http://localhost:4000?"
 	},
 	"author": "",
 	"license": "ISC",
@@ -17,6 +17,5 @@
 	},
 	"dependencies": {
 		"http-server": "^14.1.1"
-	},
-	"proxy": "http://127.0.0.1:4000"
+	}
 }
