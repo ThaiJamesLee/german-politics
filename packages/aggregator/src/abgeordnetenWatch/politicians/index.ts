@@ -74,6 +74,33 @@ async function aggregateByOccupation(
   );
 }
 
+async function aggregateByParty(
+  today: string,
+  politicians: PoliticianResults,
+): Promise<void> {
+  const aggregate: {
+    [key: string]: { politicianId: number; partyId: number }[];
+  } = {};
+
+  for (const politician of politicians.data) {
+    const key = politician.party.label;
+    if (!aggregate[key]) {
+      aggregate[key] = [];
+    }
+    aggregate[key].push({
+      politicianId: politician.id,
+      partyId: politician.party.id,
+    });
+  }
+
+  await writeFileAndArchive(
+    today,
+    JSON.stringify(aggregate, null, 2),
+    'politiciansByParty.json',
+    basePath,
+  );
+}
+
 export async function fetchPoliticians(): Promise<void> {
   const today = new Date().toISOString().slice(0, 10);
 
@@ -90,5 +117,6 @@ export async function fetchPoliticians(): Promise<void> {
     ),
     aggregateByOccupation(today, politicians),
     aggregateByEducation(today, politicians),
+    aggregateByParty(today, politicians),
   ]);
 }
