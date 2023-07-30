@@ -14,6 +14,7 @@
 		"@ui5/webcomponents-fiori": "^1.15.1",
 		"@ui5/webcomponents-icons": "^1.15.1",
 		"@ui5/webcomponents-react": "^1.17.3",
+		"@ui5/webcomponents-react-charts": "^1.17.3",
 		"node-fetch": "^2.6.12",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
