@@ -1,4 +1,5 @@
 import { BaseObject } from './base';
+import { EntityTypeEnum } from './entity';
 import { Metadata } from './metadata';
 import { PartyLink } from './party';
 
@@ -17,7 +18,16 @@ export interface Politician extends BaseObject {
   ext_id_bundestagsverwaltung: string | null;
 }
 
-export interface PoliticianResults {
+export interface PoliticianCollectionResults {
   meta: Metadata;
   data: Politician[];
+}
+
+export interface PoliticianResult {
+  meta: Metadata;
+  data: Politician[];
+}
+
+export interface PoliticianLink extends BaseObject {
+  entity_type: EntityTypeEnum.politician;
 }

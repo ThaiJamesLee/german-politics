@@ -6,6 +6,8 @@ export enum EntityTypeEnum {
   electoralData = 'electoral_data',
   fractionMembership = 'fraction_membership',
   candidacyMandate = 'candidacy_mandate',
+  constituency = 'constituency',
+  fraction = 'fraction',
 }
 
 export type EntityType = typeof EntityTypeEnum;
