@@ -47,9 +47,6 @@ export async function fetchParliaments(): Promise<void> {
     'https://www.abgeordnetenwatch.de/api/v2/parliaments',
   );
 
-  const parliament = await fetchParliamentById(10);
-  console.log(parliament);
-
   await Promise.all([
     getListOfParliaments(parliaments, today),
     writeFileAndArchive(

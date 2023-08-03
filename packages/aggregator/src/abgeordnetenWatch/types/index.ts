@@ -16,3 +16,8 @@ export interface ParliamentPeriodCollectionResult {
   meta: Metadata;
   data: ParliamentPeriod[];
 }
+
+export interface ParliamentPeriodResult {
+  meta: Metadata;
+  data: ParliamentPeriod;
+}
