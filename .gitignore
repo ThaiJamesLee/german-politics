@@ -3,3 +3,4 @@ dist
 reports
 packages/**/data
 build
+data

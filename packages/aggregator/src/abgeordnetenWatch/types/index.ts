@@ -1,7 +1,23 @@
+import { Parliament, ParliamentPeriod } from './parliament';
+
 import { Metadata } from './metadata';
-import { Parliament } from './parliament';
+
+export interface ParliamentsCollectionResult {
+  meta: Metadata;
+  data: Parliament[];
+}
 
 export interface ParliamentResult {
   meta: Metadata;
-  data: Parliament[];
+  data: Parliament;
+}
+
+export interface ParliamentPeriodCollectionResult {
+  meta: Metadata;
+  data: ParliamentPeriod[];
+}
+
+export interface ParliamentPeriodResult {
+  meta: Metadata;
+  data: ParliamentPeriod;
 }
