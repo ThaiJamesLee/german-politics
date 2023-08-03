@@ -1,0 +1,420 @@
+{
+  "Klimaliste": [
+    {
+      "politicianId": 180046,
+      "partyId": 200
+    },
+    {
+      "politicianId": 180045,
+      "partyId": 200
+    },
+    {
+      "politicianId": 180044,
+      "partyId": 200
+    },
+    {
+      "politicianId": 180043,
+      "partyId": 200
+    },
+    {
+      "politicianId": 180042,
+      "partyId": 200
+    },
+    {
+      "politicianId": 180041,
+      "partyId": 200
+    }
+  ],
+  "Die Humanisten": [
+    {
+      "politicianId": 180040,
+      "partyId": 179
+    },
+    {
+      "politicianId": 180034,
+      "partyId": 179
+    },
+    {
+      "politicianId": 180033,
+      "partyId": 179
+    }
+  ],
+  "DKP": [
+    {
+      "politicianId": 180039,
+      "partyId": 23
+    },
+    {
+      "politicianId": 180038,
+      "partyId": 23
+    },
+    {
+      "politicianId": 180037,
+      "partyId": 23
+    },
+    {
+      "politicianId": 180036,
+      "partyId": 23
+    },
+    {
+      "politicianId": 180035,
+      "partyId": 23
+    }
+  ],
+  "Volt": [
+    {
+      "politicianId": 180032,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180031,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180030,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180029,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180028,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180027,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180026,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180025,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180024,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180023,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180022,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180021,
+      "partyId": 193
+    },
+    {
+      "politicianId": 180020,
+      "partyId": 193
+    }
+  ],
+  "PIRATEN": [
+    {
+      "politicianId": 180019,
+      "partyId": 6
+    },
+    {
+      "politicianId": 180018,
+      "partyId": 6
+    },
+    {
+      "politicianId": 180017,
+      "partyId": 6
+    },
+    {
+      "politicianId": 180016,
+      "partyId": 6
+    }
+  ],
+  "Tierschutzpartei": [
+    {
+      "politicianId": 180015,
+      "partyId": 10
+    },
+    {
+      "politicianId": 180014,
+      "partyId": 10
+    },
+    {
+      "politicianId": 180013,
+      "partyId": 10
+    }
+  ],
+  "Die PARTEI": [
+    {
+      "politicianId": 180012,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180011,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180010,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180009,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180008,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180007,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180006,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180005,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180004,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180003,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180002,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180001,
+      "partyId": 16
+    },
+    {
+      "politicianId": 180000,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179999,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179998,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179997,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179996,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179995,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179994,
+      "partyId": 16
+    },
+    {
+      "politicianId": 179993,
+      "partyId": 16
+    }
+  ],
+  "dieBasis": [
+    {
+      "politicianId": 179992,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179991,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179990,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179989,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179988,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179987,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179986,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179985,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179984,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179983,
+      "partyId": 201
+    },
+    {
+      "politicianId": 179982,
+      "partyId": 201
+    }
+  ],
+  "FREIE WÄHLER": [
+    {
+      "politicianId": 179981,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179980,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179979,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179978,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179977,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179976,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179975,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179974,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179973,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179972,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179971,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179970,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179969,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179968,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179967,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179966,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179965,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179964,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179963,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179962,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179961,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179960,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179959,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179958,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179957,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179956,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179955,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179954,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179953,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179952,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179951,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179950,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179949,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179948,
+      "partyId": 7
+    },
+    {
+      "politicianId": 179947,
+      "partyId": 7
+    }
+  ]
+}

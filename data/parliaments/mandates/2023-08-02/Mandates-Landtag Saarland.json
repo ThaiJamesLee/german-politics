@@ -1,0 +1,3165 @@
+{
+  "meta": {
+    "abgeordnetenwatch_api": {
+      "version": "2.5",
+      "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+      "licence": "CC0 1.0",
+      "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/candidacy-mandate"
+    },
+    "status": "ok",
+    "status_message": "",
+    "result": {
+      "count": 52,
+      "total": 52,
+      "range_start": 0,
+      "range_end": 100
+    }
+  },
+  "data": [
+    {
+      "id": 58165,
+      "entity_type": "candidacy_mandate",
+      "label": "Petra Fretter (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58165",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151438,
+        "entity_type": "politician",
+        "label": "Petra Fretter",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151438",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/petra-fretter"
+      },
+      "start_date": "2022-07-01",
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59089,
+        "entity_type": "electoral_data",
+        "label": "Petra Fretter (Saarland 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10867,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 01.07.2022",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": "2022-07-01",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 57088,
+      "entity_type": "candidacy_mandate",
+      "label": "Sandra Johann (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/57088",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 174049,
+        "entity_type": "politician",
+        "label": "Sandra Johann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/174049",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sandra-johann"
+      },
+      "start_date": "2022-09-14",
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 58012,
+        "entity_type": "electoral_data",
+        "label": "Sandra Johann (Saarland 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10653,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 14.09.2022",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": "2022-09-14",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 57042,
+      "entity_type": "candidacy_mandate",
+      "label": "Jonas Reiter (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/57042",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 179561,
+        "entity_type": "politician",
+        "label": "Jonas Reiter",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179561",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jonas-reiter"
+      },
+      "start_date": "2022-07-02",
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57966,
+        "entity_type": "electoral_data",
+        "label": "Jonas Reiter (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 7,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10650,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 02.07.2022",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": "2022-07-02",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56397,
+      "entity_type": "candidacy_mandate",
+      "label": "Sevim Kaya-Karadağ (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56397",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138582,
+        "entity_type": "politician",
+        "label": "Sevim Kaya-Karadağ",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138582",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sevim-kaya-karadag"
+      },
+      "start_date": "2022-05-18",
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57321,
+        "entity_type": "electoral_data",
+        "label": "Sevim Kaya-Karadağ (Saarland 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10630,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55922,
+      "entity_type": "candidacy_mandate",
+      "label": "Christoph Schaufert (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55922",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178993,
+        "entity_type": "politician",
+        "label": "Christoph Schaufert",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178993",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christoph-schaufert"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56846,
+        "entity_type": "electoral_data",
+        "label": "Christoph Schaufert (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10346,
+          "entity_type": "fraction_membership",
+          "label": "AfD",
+          "fraction": {
+            "id": 342,
+            "entity_type": "fraction",
+            "label": "AfD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/342"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55921,
+      "entity_type": "candidacy_mandate",
+      "label": "Stefan Löw (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55921",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178992,
+        "entity_type": "politician",
+        "label": "Stefan Löw",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178992",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/stefan-loew-0"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56845,
+        "entity_type": "electoral_data",
+        "label": "Stefan Löw (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 9,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10345,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55920,
+      "entity_type": "candidacy_mandate",
+      "label": "Nadia Schindelhauer (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55920",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178991,
+        "entity_type": "politician",
+        "label": "Nadia Schindelhauer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178991",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/nadia-schindelhauer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56844,
+        "entity_type": "electoral_data",
+        "label": "Nadia Schindelhauer (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10344,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55919,
+      "entity_type": "candidacy_mandate",
+      "label": "Maximilian Raber (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55919",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178990,
+        "entity_type": "politician",
+        "label": "Maximilian Raber",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178990",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/maximilian-raber"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56843,
+        "entity_type": "electoral_data",
+        "label": "Maximilian Raber (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10343,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55918,
+      "entity_type": "candidacy_mandate",
+      "label": "Heike Becker (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55918",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 171194,
+        "entity_type": "politician",
+        "label": "Heike Becker",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/171194",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/heike-becker"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56842,
+        "entity_type": "electoral_data",
+        "label": "Heike Becker (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10342,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55917,
+      "entity_type": "candidacy_mandate",
+      "label": "Pascal Sebastien Conigliaro (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55917",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178989,
+        "entity_type": "politician",
+        "label": "Pascal Sebastien Conigliaro",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178989",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/pascal-sebastien-conigliaro"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56841,
+        "entity_type": "electoral_data",
+        "label": "Pascal Sebastien Conigliaro (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10341,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55916,
+      "entity_type": "candidacy_mandate",
+      "label": "Christina Baltes (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55916",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151449,
+        "entity_type": "politician",
+        "label": "Christina Baltes",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151449",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christina-baltes"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56840,
+        "entity_type": "electoral_data",
+        "label": "Christina Baltes (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10340,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55915,
+      "entity_type": "candidacy_mandate",
+      "label": "Magnus Jung (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55915",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138177,
+        "entity_type": "politician",
+        "label": "Magnus Jung",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138177",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/magnus-jung"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56839,
+        "entity_type": "electoral_data",
+        "label": "Magnus Jung (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10339,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55914,
+      "entity_type": "candidacy_mandate",
+      "label": "Christine Streichert-Clivot (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55914",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 124897,
+        "entity_type": "politician",
+        "label": "Christine Streichert-Clivot",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/124897",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christine-streichert-clivot"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56838,
+        "entity_type": "electoral_data",
+        "label": "Christine Streichert-Clivot (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10338,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55912,
+      "entity_type": "candidacy_mandate",
+      "label": "Alwin Theobald (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55912",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151441,
+        "entity_type": "politician",
+        "label": "Alwin Theobald",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151441",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/alwin-theobald"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56836,
+        "entity_type": "electoral_data",
+        "label": "Alwin Theobald (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10336,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55909,
+      "entity_type": "candidacy_mandate",
+      "label": "Roland Theis (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55909",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138346,
+        "entity_type": "politician",
+        "label": "Roland Theis",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138346",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/roland-theis"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56833,
+        "entity_type": "electoral_data",
+        "label": "Roland Theis (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10333,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55908,
+      "entity_type": "candidacy_mandate",
+      "label": "Hermann-Josef Scharf (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55908",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 118741,
+        "entity_type": "politician",
+        "label": "Hermann-Josef Scharf",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/118741",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hermann-josef-scharf"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56832,
+        "entity_type": "electoral_data",
+        "label": "Hermann-Josef Scharf (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10332,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55907,
+      "entity_type": "candidacy_mandate",
+      "label": "Stephan Toscani (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55907",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138378,
+        "entity_type": "politician",
+        "label": "Stephan Toscani",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138378",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/stephan-toscani"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56831,
+        "entity_type": "electoral_data",
+        "label": "Stephan Toscani (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 497,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/497"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11703,
+          "entity_type": "constituency",
+          "label": "3 - Neunkirchen (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11703"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10331,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55906,
+      "entity_type": "candidacy_mandate",
+      "label": "Carsten Becker (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55906",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 177567,
+        "entity_type": "politician",
+        "label": "Carsten Becker",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/177567",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/carsten-becker"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56830,
+        "entity_type": "electoral_data",
+        "label": "Carsten Becker (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10330,
+          "entity_type": "fraction_membership",
+          "label": "AfD",
+          "fraction": {
+            "id": 342,
+            "entity_type": "fraction",
+            "label": "AfD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/342"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55905,
+      "entity_type": "candidacy_mandate",
+      "label": "Sebastian Schmitt (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55905",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178987,
+        "entity_type": "politician",
+        "label": "Sebastian Schmitt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178987",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sebastian-schmitt"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56829,
+        "entity_type": "electoral_data",
+        "label": "Sebastian Schmitt (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10329,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55904,
+      "entity_type": "candidacy_mandate",
+      "label": "Julia Harenz (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55904",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178986,
+        "entity_type": "politician",
+        "label": "Julia Harenz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178986",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/julia-harenz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56828,
+        "entity_type": "electoral_data",
+        "label": "Julia Harenz (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10328,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55903,
+      "entity_type": "candidacy_mandate",
+      "label": "Florian Schäfer (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55903",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178985,
+        "entity_type": "politician",
+        "label": "Florian Schäfer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178985",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/florian-schaefer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56827,
+        "entity_type": "electoral_data",
+        "label": "Florian Schäfer (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10327,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55902,
+      "entity_type": "candidacy_mandate",
+      "label": "Sandra Quinten (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55902",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178984,
+        "entity_type": "politician",
+        "label": "Sandra Quinten",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178984",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sandra-quinten"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56826,
+        "entity_type": "electoral_data",
+        "label": "Sandra Quinten (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10326,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55901,
+      "entity_type": "candidacy_mandate",
+      "label": "Timo Ahr (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55901",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178983,
+        "entity_type": "politician",
+        "label": "Timo Ahr",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178983",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/timo-ahr"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56825,
+        "entity_type": "electoral_data",
+        "label": "Timo Ahr (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10325,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55900,
+      "entity_type": "candidacy_mandate",
+      "label": "Petra Berg (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55900",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138328,
+        "entity_type": "politician",
+        "label": "Petra Berg",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138328",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/petra-berg"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56824,
+        "entity_type": "electoral_data",
+        "label": "Petra Berg (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10324,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55899,
+      "entity_type": "candidacy_mandate",
+      "label": "Reinhold Jost (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55899",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 85089,
+        "entity_type": "politician",
+        "label": "Reinhold Jost",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/85089",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/reinhold-jost"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56823,
+        "entity_type": "electoral_data",
+        "label": "Reinhold Jost (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10323,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55898,
+      "entity_type": "candidacy_mandate",
+      "label": "Anke Rehlinger (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55898",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138121,
+        "entity_type": "politician",
+        "label": "Anke Rehlinger",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138121",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/anke-rehlinger"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56822,
+        "entity_type": "electoral_data",
+        "label": "Anke Rehlinger (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10322,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55897,
+      "entity_type": "candidacy_mandate",
+      "label": "Patrick Waldraff (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55897",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138319,
+        "entity_type": "politician",
+        "label": "Patrick Waldraff",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138319",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/patrick-waldraff"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56821,
+        "entity_type": "electoral_data",
+        "label": "Patrick Waldraff (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10321,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55896,
+      "entity_type": "candidacy_mandate",
+      "label": "Stefan Thielen (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55896",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138373,
+        "entity_type": "politician",
+        "label": "Stefan Thielen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138373",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/stefan-thielen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56820,
+        "entity_type": "electoral_data",
+        "label": "Stefan Thielen (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10320,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55895,
+      "entity_type": "candidacy_mandate",
+      "label": "Dagmar Heib (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55895",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 124912,
+        "entity_type": "politician",
+        "label": "Dagmar Heib",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/124912",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/dagmar-heib"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56819,
+        "entity_type": "electoral_data",
+        "label": "Dagmar Heib (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10319,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55894,
+      "entity_type": "candidacy_mandate",
+      "label": "Frank Wagner (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55894",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151442,
+        "entity_type": "politician",
+        "label": "Frank Wagner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151442",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/frank-wagner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56818,
+        "entity_type": "electoral_data",
+        "label": "Frank Wagner (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10318,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55893,
+      "entity_type": "candidacy_mandate",
+      "label": "Raphael Schäfer (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55893",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138342,
+        "entity_type": "politician",
+        "label": "Raphael Schäfer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138342",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/raphael-schaefer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56817,
+        "entity_type": "electoral_data",
+        "label": "Raphael Schäfer (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 496,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/496"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11704,
+          "entity_type": "constituency",
+          "label": "2 - Saarlouis (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11704"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10317,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55892,
+      "entity_type": "candidacy_mandate",
+      "label": "Josef Dörr (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55892",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151436,
+        "entity_type": "politician",
+        "label": "Josef Dörr",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151436",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/josef-doerr"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56816,
+        "entity_type": "electoral_data",
+        "label": "Josef Dörr (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10316,
+          "entity_type": "fraction_membership",
+          "label": "AfD",
+          "fraction": {
+            "id": 342,
+            "entity_type": "fraction",
+            "label": "AfD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/342"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55891,
+      "entity_type": "candidacy_mandate",
+      "label": "Frank Dieter Schmidt (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55891",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178982,
+        "entity_type": "politician",
+        "label": "Frank Dieter Schmidt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178982",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/frank-dieter-schmidt"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56815,
+        "entity_type": "electoral_data",
+        "label": "Frank Dieter Schmidt (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10315,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55889,
+      "entity_type": "candidacy_mandate",
+      "label": "Flora Schröder (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55889",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178980,
+        "entity_type": "politician",
+        "label": "Flora Schröder",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178980",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/flora-schroeder"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56813,
+        "entity_type": "electoral_data",
+        "label": "Flora Schröder (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10314,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55888,
+      "entity_type": "candidacy_mandate",
+      "label": "Sascha Haas (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55888",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178979,
+        "entity_type": "politician",
+        "label": "Sascha Haas",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178979",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sascha-haas"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56812,
+        "entity_type": "electoral_data",
+        "label": "Sascha Haas (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10313,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55887,
+      "entity_type": "candidacy_mandate",
+      "label": "Kira Braun (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55887",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178978,
+        "entity_type": "politician",
+        "label": "Kira Braun",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178978",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kira-braun"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56811,
+        "entity_type": "electoral_data",
+        "label": "Kira Braun (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10312,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55886,
+      "entity_type": "candidacy_mandate",
+      "label": "Pascal Arweiler (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55886",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178977,
+        "entity_type": "politician",
+        "label": "Pascal Arweiler",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178977",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/pascal-arweiler"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56810,
+        "entity_type": "electoral_data",
+        "label": "Pascal Arweiler (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10311,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55885,
+      "entity_type": "candidacy_mandate",
+      "label": "Stephanie Meiser (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55885",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178976,
+        "entity_type": "politician",
+        "label": "Stephanie Meiser",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178976",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/stephanie-meiser"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56809,
+        "entity_type": "electoral_data",
+        "label": "Stephanie Meiser (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10310,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55884,
+      "entity_type": "candidacy_mandate",
+      "label": "Ulrich Commerçon (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55884",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138394,
+        "entity_type": "politician",
+        "label": "Ulrich Commerçon",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138394",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ulrich-commercon"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56808,
+        "entity_type": "electoral_data",
+        "label": "Ulrich Commerçon (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10309,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55883,
+      "entity_type": "candidacy_mandate",
+      "label": "Sascha Zehner (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55883",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151439,
+        "entity_type": "politician",
+        "label": "Sascha Zehner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151439",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sascha-zehner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56807,
+        "entity_type": "electoral_data",
+        "label": "Sascha Zehner (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10308,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55882,
+      "entity_type": "candidacy_mandate",
+      "label": "Bernd Wegner (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55882",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138135,
+        "entity_type": "politician",
+        "label": "Bernd Wegner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138135",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/bernd-wegner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56806,
+        "entity_type": "electoral_data",
+        "label": "Bernd Wegner (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10307,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55881,
+      "entity_type": "candidacy_mandate",
+      "label": "Anja Wagner-Scheid (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55881",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138120,
+        "entity_type": "politician",
+        "label": "Anja Wagner-Scheid",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138120",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/anja-wagner-scheid"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56805,
+        "entity_type": "electoral_data",
+        "label": "Anja Wagner-Scheid (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10306,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55880,
+      "entity_type": "candidacy_mandate",
+      "label": "Peter Strobel (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55880",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138326,
+        "entity_type": "politician",
+        "label": "Peter Strobel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138326",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/peter-strobel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56804,
+        "entity_type": "electoral_data",
+        "label": "Peter Strobel (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 495,
+          "entity_type": "electoral_list",
+          "label": "Wahlkreisliste Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/495"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11702,
+          "entity_type": "constituency",
+          "label": "1 - Saarbrücken (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11702"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10305,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55879,
+      "entity_type": "candidacy_mandate",
+      "label": "Alexandra Becker (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55879",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178975,
+        "entity_type": "politician",
+        "label": "Alexandra Becker",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178975",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/alexandra-becker"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56803,
+        "entity_type": "electoral_data",
+        "label": "Alexandra Becker (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 11,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10304,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55878,
+      "entity_type": "candidacy_mandate",
+      "label": "David Maaß (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55878",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178974,
+        "entity_type": "politician",
+        "label": "David Maaß",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178974",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/david-maass"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56802,
+        "entity_type": "electoral_data",
+        "label": "David Maaß (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 10,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10303,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55877,
+      "entity_type": "candidacy_mandate",
+      "label": "Réka Klein (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55877",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178973,
+        "entity_type": "politician",
+        "label": "Réka Klein",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178973",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/reka-klein"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56801,
+        "entity_type": "electoral_data",
+        "label": "Réka Klein (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 9,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10302,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55876,
+      "entity_type": "candidacy_mandate",
+      "label": "Martina Holzner (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55876",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138297,
+        "entity_type": "politician",
+        "label": "Martina Holzner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138297",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/martina-holzner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56800,
+        "entity_type": "electoral_data",
+        "label": "Martina Holzner (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 7,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10301,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55875,
+      "entity_type": "candidacy_mandate",
+      "label": "Damhat Sisamci (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55875",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178972,
+        "entity_type": "politician",
+        "label": "Damhat Sisamci",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178972",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/damhat-sisamci"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56799,
+        "entity_type": "electoral_data",
+        "label": "Damhat Sisamci (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 6,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10300,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 341,
+            "entity_type": "fraction",
+            "label": "SPD (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/341"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55874,
+      "entity_type": "candidacy_mandate",
+      "label": "Ute Mücklich-Heinrich (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55874",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 178971,
+        "entity_type": "politician",
+        "label": "Ute Mücklich-Heinrich",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178971",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ute-muecklich-heinrich"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56798,
+        "entity_type": "electoral_data",
+        "label": "Ute Mücklich-Heinrich (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 4,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10299,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55873,
+      "entity_type": "candidacy_mandate",
+      "label": "Marc Speicher (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55873",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 151444,
+        "entity_type": "politician",
+        "label": "Marc Speicher",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/151444",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/marc-speicher"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56797,
+        "entity_type": "electoral_data",
+        "label": "Marc Speicher (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 3,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10298,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55872,
+      "entity_type": "candidacy_mandate",
+      "label": "Jutta Schmitt-Lang (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55872",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138266,
+        "entity_type": "politician",
+        "label": "Jutta Schmitt-Lang",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138266",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jutta-schmitt-lang"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56796,
+        "entity_type": "electoral_data",
+        "label": "Jutta Schmitt-Lang (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 2,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10297,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 55871,
+      "entity_type": "candidacy_mandate",
+      "label": "Tobias Hans (Saarland 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/55871",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 137,
+        "entity_type": "parliament_period",
+        "label": "Saarland 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/137",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/saarland"
+      },
+      "politician": {
+        "id": 138390,
+        "entity_type": "politician",
+        "label": "Tobias Hans",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/138390",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/tobias-hans"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 56795,
+        "entity_type": "electoral_data",
+        "label": "Tobias Hans (Saarland 2022 - 2027)",
+        "electoral_list": {
+          "id": 494,
+          "entity_type": "electoral_list",
+          "label": "Landesliste (Saarland 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/494"
+        },
+        "list_position": 1,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": null
+      },
+      "fraction_membership": [
+        {
+          "id": 10296,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 340,
+            "entity_type": "fraction",
+            "label": "CDU (Saarland 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/340"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    }
+  ]
+}

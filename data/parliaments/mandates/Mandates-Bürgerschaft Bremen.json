@@ -1,0 +1,5335 @@
+{
+  "meta": {
+    "abgeordnetenwatch_api": {
+      "version": "2.5",
+      "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+      "licence": "CC0 1.0",
+      "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/candidacy-mandate"
+    },
+    "status": "ok",
+    "status_message": "",
+    "result": {
+      "count": 87,
+      "total": 87,
+      "range_start": 0,
+      "range_end": 100
+    }
+  },
+  "data": [
+    {
+      "id": 58610,
+      "entity_type": "candidacy_mandate",
+      "label": "Olaf Zimmer (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58610",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166061,
+        "entity_type": "politician",
+        "label": "Olaf Zimmer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166061",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/olaf-zimmer"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59534,
+        "entity_type": "electoral_data",
+        "label": "Olaf Zimmer (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10979,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE seit 05.07.2023",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58609,
+      "entity_type": "candidacy_mandate",
+      "label": "Sahhanim Görgü-Philipp (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58609",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73502,
+        "entity_type": "politician",
+        "label": "Sahhanim Görgü-Philipp",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73502",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sahhanim-goergue-philipp"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59533,
+        "entity_type": "electoral_data",
+        "label": "Sahhanim Görgü-Philipp (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10978,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen seit 05.07.2023",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58608,
+      "entity_type": "candidacy_mandate",
+      "label": "Nurtekin Tepe (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58608",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179671,
+        "entity_type": "politician",
+        "label": "Nurtekin Tepe",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179671",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/nurtekin-tepe"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59532,
+        "entity_type": "electoral_data",
+        "label": "Nurtekin Tepe (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10977,
+          "entity_type": "fraction_membership",
+          "label": "SPD seit 05.07.2023",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58607,
+      "entity_type": "candidacy_mandate",
+      "label": "Holger Welt (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58607",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73921,
+        "entity_type": "politician",
+        "label": "Holger Welt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73921",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/holger-welt"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59531,
+        "entity_type": "electoral_data",
+        "label": "Holger Welt (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10976,
+          "entity_type": "fraction_membership",
+          "label": "SPD seit 05.07.2023",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58606,
+      "entity_type": "candidacy_mandate",
+      "label": "Emanuel Herold (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58606",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165998,
+        "entity_type": "politician",
+        "label": "Emanuel Herold",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165998",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/emanuel-herold"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59530,
+        "entity_type": "electoral_data",
+        "label": "Emanuel Herold (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10975,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen seit 05.07.2023",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58605,
+      "entity_type": "candidacy_mandate",
+      "label": "Muhammet Tokmak (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58605",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165951,
+        "entity_type": "politician",
+        "label": "Muhammet Tokmak",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165951",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/muhammet-tokmak"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59529,
+        "entity_type": "electoral_data",
+        "label": "Muhammet Tokmak (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10974,
+          "entity_type": "fraction_membership",
+          "label": "SPD seit 05.07.2023",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58604,
+      "entity_type": "candidacy_mandate",
+      "label": "Tim Sültenfuß (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58604",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179722,
+        "entity_type": "politician",
+        "label": "Tim Sültenfuß",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179722",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/tim-sueltenfuss"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59528,
+        "entity_type": "electoral_data",
+        "label": "Tim Sültenfuß (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10973,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE seit 05.07.2023",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58603,
+      "entity_type": "candidacy_mandate",
+      "label": "Derik Eicke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58603",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165969,
+        "entity_type": "politician",
+        "label": "Derik Eicke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165969",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/derik-eicke"
+      },
+      "start_date": "2023-07-05",
+      "end_date": null,
+      "info": "Nachgerückt für Senatsmitglied.",
+      "electoral_data": {
+        "id": 59527,
+        "entity_type": "electoral_data",
+        "label": "Derik Eicke (Bremen 2023 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10972,
+          "entity_type": "fraction_membership",
+          "label": "SPD seit 05.07.2023",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": "2023-07-05",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58598,
+      "entity_type": "candidacy_mandate",
+      "label": "Simon Zeimke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58598",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73378,
+        "entity_type": "politician",
+        "label": "Simon Zeimke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73378",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/simon-zeimke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59522,
+        "entity_type": "electoral_data",
+        "label": "Simon Zeimke (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 13,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 830,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10962,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58597,
+      "entity_type": "candidacy_mandate",
+      "label": "Medine Yildiz (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58597",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179668,
+        "entity_type": "politician",
+        "label": "Medine Yildiz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179668",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/medine-yildiz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59521,
+        "entity_type": "electoral_data",
+        "label": "Medine Yildiz (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 46,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1370,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10961,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58596,
+      "entity_type": "candidacy_mandate",
+      "label": "Oguzhan Yazici (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58596",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73319,
+        "entity_type": "politician",
+        "label": "Oguzhan Yazici",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73319",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/oguzhan-yazici"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59520,
+        "entity_type": "electoral_data",
+        "label": "Oguzhan Yazici (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 25,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 5838,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10960,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58595,
+      "entity_type": "candidacy_mandate",
+      "label": "Wiebke Winter (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58595",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 175889,
+        "entity_type": "politician",
+        "label": "Wiebke Winter",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/175889",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/wiebke-winter"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59519,
+        "entity_type": "electoral_data",
+        "label": "Wiebke Winter (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 20174,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10959,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58594,
+      "entity_type": "candidacy_mandate",
+      "label": "Kai-Lena Wargalla (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58594",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73458,
+        "entity_type": "politician",
+        "label": "Kai-Lena Wargalla",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73458",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kai-lena-wargalla"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59518,
+        "entity_type": "electoral_data",
+        "label": "Kai-Lena Wargalla (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 14,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 4953,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10958,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58593,
+      "entity_type": "candidacy_mandate",
+      "label": "Falk Wagner (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58593",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165938,
+        "entity_type": "politician",
+        "label": "Falk Wagner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165938",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/falk-wagner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59517,
+        "entity_type": "electoral_data",
+        "label": "Falk Wagner (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 798,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10957,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58592,
+      "entity_type": "candidacy_mandate",
+      "label": "Fynn Voigt (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58592",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179731,
+        "entity_type": "politician",
+        "label": "Fynn Voigt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179731",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/fynn-voigt"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59516,
+        "entity_type": "electoral_data",
+        "label": "Fynn Voigt (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 348,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10956,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 367,
+            "entity_type": "fraction",
+            "label": "FDP (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/367"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58590,
+      "entity_type": "candidacy_mandate",
+      "label": "Cindi Tuncel (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58590",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73530,
+        "entity_type": "politician",
+        "label": "Cindi Tuncel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73530",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/cindi-tuncel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59514,
+        "entity_type": "electoral_data",
+        "label": "Cindi Tuncel (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 12,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2967,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10954,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58589,
+      "entity_type": "candidacy_mandate",
+      "label": "Valentina Tuchel (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58589",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73814,
+        "entity_type": "politician",
+        "label": "Valentina Tuchel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73814",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/valentina-tuchel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59513,
+        "entity_type": "electoral_data",
+        "label": "Valentina Tuchel (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 22,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1833,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10953,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58588,
+      "entity_type": "candidacy_mandate",
+      "label": "Jan Timke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58588",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 74148,
+        "entity_type": "politician",
+        "label": "Jan Timke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/74148",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jan-timke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59512,
+        "entity_type": "electoral_data",
+        "label": "Jan Timke (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 14167,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10952,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58587,
+      "entity_type": "candidacy_mandate",
+      "label": "Julia Tiedemann (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58587",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166348,
+        "entity_type": "politician",
+        "label": "Julia Tiedemann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166348",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/julia-tiedemann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59511,
+        "entity_type": "electoral_data",
+        "label": "Julia Tiedemann (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 963,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10951,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58586,
+      "entity_type": "candidacy_mandate",
+      "label": "Franziska Tell (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58586",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179689,
+        "entity_type": "politician",
+        "label": "Franziska Tell",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179689",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/franziska-tell"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59510,
+        "entity_type": "electoral_data",
+        "label": "Franziska Tell (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2285,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10950,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58585,
+      "entity_type": "candidacy_mandate",
+      "label": "Hetav Tek (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58585",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179621,
+        "entity_type": "politician",
+        "label": "Hetav Tek",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179621",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hetav-tek"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59509,
+        "entity_type": "electoral_data",
+        "label": "Hetav Tek (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 20,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 568,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10949,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58584,
+      "entity_type": "candidacy_mandate",
+      "label": "Maja Tegeler (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58584",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166060,
+        "entity_type": "politician",
+        "label": "Maja Tegeler",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166060",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/maja-tegeler"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59508,
+        "entity_type": "electoral_data",
+        "label": "Maja Tegeler (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 720,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10948,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58583,
+      "entity_type": "candidacy_mandate",
+      "label": "Miriam Strunge (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58583",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73532,
+        "entity_type": "politician",
+        "label": "Miriam Strunge",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73532",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/miriam-strunge"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59507,
+        "entity_type": "electoral_data",
+        "label": "Miriam Strunge (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1049,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10947,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58582,
+      "entity_type": "candidacy_mandate",
+      "label": "Heiko Strohmann (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58582",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73308,
+        "entity_type": "politician",
+        "label": "Heiko Strohmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73308",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/heiko-strohmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59506,
+        "entity_type": "electoral_data",
+        "label": "Heiko Strohmann (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1822,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10946,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58581,
+      "entity_type": "candidacy_mandate",
+      "label": "Janina Strelow (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58581",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165978,
+        "entity_type": "politician",
+        "label": "Janina Strelow",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165978",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/janina-strelow"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59505,
+        "entity_type": "electoral_data",
+        "label": "Janina Strelow (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1746,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10945,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58579,
+      "entity_type": "candidacy_mandate",
+      "label": "Volker Stahmann (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58579",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165941,
+        "entity_type": "politician",
+        "label": "Volker Stahmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165941",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/volker-stahmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59503,
+        "entity_type": "electoral_data",
+        "label": "Volker Stahmann (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 15,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1612,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10943,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58578,
+      "entity_type": "candidacy_mandate",
+      "label": "Mehmet-Ali Seyrek (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58578",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73893,
+        "entity_type": "politician",
+        "label": "Mehmet-Ali Seyrek",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73893",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/mehmet-ali-seyrek"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59502,
+        "entity_type": "electoral_data",
+        "label": "Mehmet-Ali Seyrek (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 33,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2953,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10942,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58577,
+      "entity_type": "candidacy_mandate",
+      "label": "Sascha Schuster (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58577",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73296,
+        "entity_type": "politician",
+        "label": "Sascha Schuster",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73296",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sascha-schuster"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59501,
+        "entity_type": "electoral_data",
+        "label": "Sascha Schuster (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 985,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10941,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58576,
+      "entity_type": "candidacy_mandate",
+      "label": "Marcel Schröder (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58576",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179729,
+        "entity_type": "politician",
+        "label": "Marcel Schröder",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179729",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/marcel-schroeder"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59500,
+        "entity_type": "electoral_data",
+        "label": "Marcel Schröder (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 783,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10940,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 367,
+            "entity_type": "fraction",
+            "label": "FDP (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/367"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58575,
+      "entity_type": "candidacy_mandate",
+      "label": "Christine Schnittker (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58575",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73402,
+        "entity_type": "politician",
+        "label": "Christine Schnittker",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73402",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christine-schnittker"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59499,
+        "entity_type": "electoral_data",
+        "label": "Christine Schnittker (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 3507,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10939,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58573,
+      "entity_type": "candidacy_mandate",
+      "label": "Anja Schiemann (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58573",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73802,
+        "entity_type": "politician",
+        "label": "Anja Schiemann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73802",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/anja-schiemann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59497,
+        "entity_type": "electoral_data",
+        "label": "Anja Schiemann (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 14,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 560,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10937,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58572,
+      "entity_type": "candidacy_mandate",
+      "label": "Sven Schellenberg (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58572",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166076,
+        "entity_type": "politician",
+        "label": "Sven Schellenberg",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166076",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sven-schellenberg"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59496,
+        "entity_type": "electoral_data",
+        "label": "Sven Schellenberg (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1141,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10936,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58571,
+      "entity_type": "candidacy_mandate",
+      "label": "Maike Schaefer (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58571",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73422,
+        "entity_type": "politician",
+        "label": "Maike Schaefer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73422",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/maike-schaefer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59495,
+        "entity_type": "electoral_data",
+        "label": "Maike Schaefer (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 7980,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10935,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58570,
+      "entity_type": "candidacy_mandate",
+      "label": "Thore Schäck (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58570",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166006,
+        "entity_type": "politician",
+        "label": "Thore Schäck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166006",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/thore-schaeck"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59494,
+        "entity_type": "electoral_data",
+        "label": "Thore Schäck (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 7388,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10934,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 367,
+            "entity_type": "fraction",
+            "label": "FDP (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/367"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58569,
+      "entity_type": "candidacy_mandate",
+      "label": "Ralph Saxe (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58569",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73428,
+        "entity_type": "politician",
+        "label": "Ralph Saxe",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73428",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ralph-saxe"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59493,
+        "entity_type": "electoral_data",
+        "label": "Ralph Saxe (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1582,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10933,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58568,
+      "entity_type": "candidacy_mandate",
+      "label": "Senihad Sator (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58568",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179653,
+        "entity_type": "politician",
+        "label": "Senihad Sator",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179653",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/senihad-sator"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59492,
+        "entity_type": "electoral_data",
+        "label": "Senihad Sator (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 13,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 607,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10932,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58567,
+      "entity_type": "candidacy_mandate",
+      "label": "Meltem Sağiroğlu (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58567",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179775,
+        "entity_type": "politician",
+        "label": "Meltem Sağiroğlu",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179775",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/meltem-sagiroglu"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59491,
+        "entity_type": "electoral_data",
+        "label": "Meltem Sağiroğlu (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 563,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10931,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58566,
+      "entity_type": "candidacy_mandate",
+      "label": "Klaus-Rainer Rupp (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58566",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73526,
+        "entity_type": "politician",
+        "label": "Klaus-Rainer Rupp",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73526",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/klaus-rainer-rupp"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59490,
+        "entity_type": "electoral_data",
+        "label": "Klaus-Rainer Rupp (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 658,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10930,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58565,
+      "entity_type": "candidacy_mandate",
+      "label": "Claas Rohmeyer (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58565",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 124397,
+        "entity_type": "politician",
+        "label": "Claas Rohmeyer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/124397",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/claas-rohmeyer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59489,
+        "entity_type": "electoral_data",
+        "label": "Claas Rohmeyer (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 15,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1358,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10929,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58564,
+      "entity_type": "candidacy_mandate",
+      "label": "Ute Reimers-Bruns (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58564",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73817,
+        "entity_type": "politician",
+        "label": "Ute Reimers-Bruns",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73817",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ute-reimers-bruns"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59488,
+        "entity_type": "electoral_data",
+        "label": "Ute Reimers-Bruns (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1013,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10928,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58563,
+      "entity_type": "candidacy_mandate",
+      "label": "Thorsten Raschen (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58563",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166053,
+        "entity_type": "politician",
+        "label": "Thorsten Raschen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166053",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/thorsten-raschen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59487,
+        "entity_type": "electoral_data",
+        "label": "Thorsten Raschen (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2700,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10927,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58562,
+      "entity_type": "candidacy_mandate",
+      "label": "Silvia Neumeyer (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58562",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73304,
+        "entity_type": "politician",
+        "label": "Silvia Neumeyer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73304",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/silvia-neumeyer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59486,
+        "entity_type": "electoral_data",
+        "label": "Silvia Neumeyer (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 12,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 802,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10926,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58561,
+      "entity_type": "candidacy_mandate",
+      "label": "Henrike Müller (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58561",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73430,
+        "entity_type": "politician",
+        "label": "Henrike Müller",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73430",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/henrike-mueller"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59485,
+        "entity_type": "electoral_data",
+        "label": "Henrike Müller (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 777,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10925,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58560,
+      "entity_type": "candidacy_mandate",
+      "label": "Andre Minne (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58560",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73271,
+        "entity_type": "politician",
+        "label": "Andre Minne",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73271",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/andre-minne"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59484,
+        "entity_type": "electoral_data",
+        "label": "Andre Minne (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1175,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10924,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58559,
+      "entity_type": "candidacy_mandate",
+      "label": "Martin Michalik (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58559",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73337,
+        "entity_type": "politician",
+        "label": "Martin Michalik",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73337",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/martin-michalik"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59483,
+        "entity_type": "electoral_data",
+        "label": "Martin Michalik (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1337,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10923,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58558,
+      "entity_type": "candidacy_mandate",
+      "label": "Bithja Menzel (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58558",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179690,
+        "entity_type": "politician",
+        "label": "Bithja Menzel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179690",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/bithja-menzel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59482,
+        "entity_type": "electoral_data",
+        "label": "Bithja Menzel (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 767,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10922,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58556,
+      "entity_type": "candidacy_mandate",
+      "label": "Marco Lübke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58556",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73347,
+        "entity_type": "politician",
+        "label": "Marco Lübke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73347",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/marco-luebke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59480,
+        "entity_type": "electoral_data",
+        "label": "Marco Lübke (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 9,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 3501,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10920,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58555,
+      "entity_type": "candidacy_mandate",
+      "label": "Sven Lichtenfeld (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58555",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166084,
+        "entity_type": "politician",
+        "label": "Sven Lichtenfeld",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166084",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sven-lichtenfeld"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": "Ist für die Wählervereinigung \"Bürger in Wut\" bei der Bremischen Bürgerschaftswahl 2023 angetreten.",
+      "electoral_data": {
+        "id": 59479,
+        "entity_type": "electoral_data",
+        "label": "Sven Lichtenfeld (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1456,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10969,
+          "entity_type": "fraction_membership",
+          "label": "fraktionslos",
+          "fraction": {
+            "id": 369,
+            "entity_type": "fraction",
+            "label": "fraktionslos (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/369"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58554,
+      "entity_type": "candidacy_mandate",
+      "label": "Sofia Leonidakis (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58554",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 29543,
+        "entity_type": "politician",
+        "label": "Sofia Leonidakis",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/29543",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sofia-leonidakis"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59478,
+        "entity_type": "electoral_data",
+        "label": "Sofia Leonidakis (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2444,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10918,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58553,
+      "entity_type": "candidacy_mandate",
+      "label": "Kevin Lenkeit (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58553",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165942,
+        "entity_type": "politician",
+        "label": "Kevin Lenkeit",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165942",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kevin-lenkeit"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59477,
+        "entity_type": "electoral_data",
+        "label": "Kevin Lenkeit (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 11,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 410,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10917,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58552,
+      "entity_type": "candidacy_mandate",
+      "label": "Piet Leidreiter (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58552",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73219,
+        "entity_type": "politician",
+        "label": "Piet Leidreiter",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73219",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/piet-leidreiter"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59476,
+        "entity_type": "electoral_data",
+        "label": "Piet Leidreiter (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 5129,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10916,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58551,
+      "entity_type": "candidacy_mandate",
+      "label": "Michael Labetzke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58551",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166003,
+        "entity_type": "politician",
+        "label": "Michael Labetzke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166003",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/michael-labetzke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59475,
+        "entity_type": "electoral_data",
+        "label": "Michael Labetzke (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 966,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10915,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58550,
+      "entity_type": "candidacy_mandate",
+      "label": "Heike Kretschmann (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58550",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179651,
+        "entity_type": "politician",
+        "label": "Heike Kretschmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179651",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/heike-kretschmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59474,
+        "entity_type": "electoral_data",
+        "label": "Heike Kretschmann (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 836,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10914,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58549,
+      "entity_type": "candidacy_mandate",
+      "label": "Muhlis Kocaağa (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58549",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179725,
+        "entity_type": "politician",
+        "label": "Muhlis Kocaağa",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179725",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/muhlis-kocaaga"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59473,
+        "entity_type": "electoral_data",
+        "label": "Muhlis Kocaağa (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 961,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10913,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58548,
+      "entity_type": "candidacy_mandate",
+      "label": "Basem Khan (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58548",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179664,
+        "entity_type": "politician",
+        "label": "Basem Khan",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179664",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/basem-khan"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59472,
+        "entity_type": "electoral_data",
+        "label": "Basem Khan (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 37,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 3098,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10912,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58547,
+      "entity_type": "candidacy_mandate",
+      "label": "Katharina Kähler (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58547",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179649,
+        "entity_type": "politician",
+        "label": "Katharina Kähler",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179649",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/katharina-kaehler"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59471,
+        "entity_type": "electoral_data",
+        "label": "Katharina Kähler (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 728,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10911,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58546,
+      "entity_type": "candidacy_mandate",
+      "label": "Michael Jonitz (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58546",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73353,
+        "entity_type": "politician",
+        "label": "Michael Jonitz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73353",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/michael-jonitz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59470,
+        "entity_type": "electoral_data",
+        "label": "Michael Jonitz (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 11,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 649,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10910,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58545,
+      "entity_type": "candidacy_mandate",
+      "label": "Nelson Janßen (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58545",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73556,
+        "entity_type": "politician",
+        "label": "Nelson Janßen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73556",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/nelson-janssen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59469,
+        "entity_type": "electoral_data",
+        "label": "Nelson Janßen (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1411,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10909,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58544,
+      "entity_type": "candidacy_mandate",
+      "label": "Frank Imhoff (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58544",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73306,
+        "entity_type": "politician",
+        "label": "Frank Imhoff",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73306",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/frank-imhoff"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59468,
+        "entity_type": "electoral_data",
+        "label": "Frank Imhoff (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 53961,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10908,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58543,
+      "entity_type": "candidacy_mandate",
+      "label": "Ole Humpich (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58543",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179730,
+        "entity_type": "politician",
+        "label": "Ole Humpich",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179730",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ole-humpich"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59467,
+        "entity_type": "electoral_data",
+        "label": "Ole Humpich (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 361,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10907,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 367,
+            "entity_type": "fraction",
+            "label": "FDP (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/367"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58542,
+      "entity_type": "candidacy_mandate",
+      "label": "Bettina Hornhues (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58542",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 79278,
+        "entity_type": "politician",
+        "label": "Bettina Hornhues",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/79278",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/bettina-hornhues"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59466,
+        "entity_type": "electoral_data",
+        "label": "Bettina Hornhues (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1297,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10906,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58541,
+      "entity_type": "candidacy_mandate",
+      "label": "Hauke Hilz (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58541",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73731,
+        "entity_type": "politician",
+        "label": "Hauke Hilz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73731",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hauke-hilz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59465,
+        "entity_type": "electoral_data",
+        "label": "Hauke Hilz (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2100,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10905,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 367,
+            "entity_type": "fraction",
+            "label": "FDP (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/367"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58540,
+      "entity_type": "candidacy_mandate",
+      "label": "Hubertus Hess-Grunewald (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58540",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179650,
+        "entity_type": "politician",
+        "label": "Hubertus Hess-Grunewald",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179650",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hubertus-hess-grunewald"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59464,
+        "entity_type": "electoral_data",
+        "label": "Hubertus Hess-Grunewald (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 9,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2219,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10904,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58539,
+      "entity_type": "candidacy_mandate",
+      "label": "Dariush Hassanpour Fard Khorashad (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58539",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179715,
+        "entity_type": "politician",
+        "label": "Dariush Hassanpour Fard Khorashad",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179715",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/dariush-hassanpour-fard-khorashad"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59463,
+        "entity_type": "electoral_data",
+        "label": "Dariush Hassanpour Fard Khorashad (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2878,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10903,
+          "entity_type": "fraction_membership",
+          "label": "DIE LINKE",
+          "fraction": {
+            "id": 366,
+            "entity_type": "fraction",
+            "label": "DIE LINKE (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/366"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58538,
+      "entity_type": "candidacy_mandate",
+      "label": "Martin Günthner (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58538",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73901,
+        "entity_type": "politician",
+        "label": "Martin Günthner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73901",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/martin-guenthner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59462,
+        "entity_type": "electoral_data",
+        "label": "Martin Günthner (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 5388,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10902,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58537,
+      "entity_type": "candidacy_mandate",
+      "label": "Mustafa Güngör (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58537",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73788,
+        "entity_type": "politician",
+        "label": "Mustafa Güngör",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73788",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/mustafa-guengoer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59461,
+        "entity_type": "electoral_data",
+        "label": "Mustafa Güngör (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2511,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10901,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58536,
+      "entity_type": "candidacy_mandate",
+      "label": "Antje Grotheer (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58536",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73770,
+        "entity_type": "politician",
+        "label": "Antje Grotheer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73770",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/antje-grotheer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59460,
+        "entity_type": "electoral_data",
+        "label": "Antje Grotheer (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1463,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10900,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58535,
+      "entity_type": "candidacy_mandate",
+      "label": "Theresa Gröninger (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58535",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179620,
+        "entity_type": "politician",
+        "label": "Theresa Gröninger",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179620",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/theresa-groeninger"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59459,
+        "entity_type": "electoral_data",
+        "label": "Theresa Gröninger (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 14,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 449,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10899,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58534,
+      "entity_type": "candidacy_mandate",
+      "label": "Sigrid Grönert (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58534",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73333,
+        "entity_type": "politician",
+        "label": "Sigrid Grönert",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73333",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sigrid-groenert"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59458,
+        "entity_type": "electoral_data",
+        "label": "Sigrid Grönert (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 16,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1919,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10898,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58533,
+      "entity_type": "candidacy_mandate",
+      "label": "Susanne Grobien (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58533",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 29177,
+        "entity_type": "politician",
+        "label": "Susanne Grobien",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/29177",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/susanne-grobien"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59457,
+        "entity_type": "electoral_data",
+        "label": "Susanne Grobien (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2054,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10897,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58532,
+      "entity_type": "candidacy_mandate",
+      "label": "Arno Gottschalk (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58532",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73796,
+        "entity_type": "politician",
+        "label": "Arno Gottschalk",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73796",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/arno-gottschalk"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59456,
+        "entity_type": "electoral_data",
+        "label": "Arno Gottschalk (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 17,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1857,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10896,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58531,
+      "entity_type": "candidacy_mandate",
+      "label": "Holger Fricke (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58531",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179774,
+        "entity_type": "politician",
+        "label": "Holger Fricke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179774",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/holger-fricke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59455,
+        "entity_type": "electoral_data",
+        "label": "Holger Fricke (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 828,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10895,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58529,
+      "entity_type": "candidacy_mandate",
+      "label": "Jens Eckhoff (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58529",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73312,
+        "entity_type": "politician",
+        "label": "Jens Eckhoff",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73312",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jens-eckhoff"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59453,
+        "entity_type": "electoral_data",
+        "label": "Jens Eckhoff (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 4658,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10893,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58528,
+      "entity_type": "candidacy_mandate",
+      "label": "Kerstin Eckardt (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58528",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166033,
+        "entity_type": "politician",
+        "label": "Kerstin Eckardt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166033",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kerstin-eckardt"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59452,
+        "entity_type": "electoral_data",
+        "label": "Kerstin Eckardt (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 18,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 407,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10892,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58527,
+      "entity_type": "candidacy_mandate",
+      "label": "Sina Dertwinkel (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58527",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73408,
+        "entity_type": "politician",
+        "label": "Sina Dertwinkel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73408",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sina-dertwinkel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59451,
+        "entity_type": "electoral_data",
+        "label": "Sina Dertwinkel (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 787,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10891,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58526,
+      "entity_type": "candidacy_mandate",
+      "label": "Cord Degenhard (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58526",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 124400,
+        "entity_type": "politician",
+        "label": "Cord Degenhard",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/124400",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/cord-degenhard"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59450,
+        "entity_type": "electoral_data",
+        "label": "Cord Degenhard (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1319,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10890,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis Deutschland",
+          "fraction": {
+            "id": 368,
+            "entity_type": "fraction",
+            "label": "Bündnis Deutschland (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/368"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58525,
+      "entity_type": "candidacy_mandate",
+      "label": "Sülmez Çolak (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58525",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73504,
+        "entity_type": "politician",
+        "label": "Sülmez Çolak",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73504",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/suelmez-colak"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59449,
+        "entity_type": "electoral_data",
+        "label": "Sülmez Çolak (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 2129,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10889,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58524,
+      "entity_type": "candidacy_mandate",
+      "label": "Philipp Bruck (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58524",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165987,
+        "entity_type": "politician",
+        "label": "Philipp Bruck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165987",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/philipp-bruck"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59448,
+        "entity_type": "electoral_data",
+        "label": "Philipp Bruck (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1752,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10888,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 365,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/365"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58523,
+      "entity_type": "candidacy_mandate",
+      "label": "Falko Bries (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58523",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179666,
+        "entity_type": "politician",
+        "label": "Falko Bries",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179666",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/falko-bries"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59447,
+        "entity_type": "electoral_data",
+        "label": "Falko Bries (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 41,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1478,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10887,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58521,
+      "entity_type": "candidacy_mandate",
+      "label": "Nils Bothen (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58521",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179680,
+        "entity_type": "politician",
+        "label": "Nils Bothen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179680",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/nils-bothen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59445,
+        "entity_type": "electoral_data",
+        "label": "Nils Bothen (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 551,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/551"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 12287,
+          "entity_type": "constituency",
+          "label": "2 - Bremerhaven (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12287"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1112,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10885,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58520,
+      "entity_type": "candidacy_mandate",
+      "label": "Hartmut Bodeit (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58520",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73329,
+        "entity_type": "politician",
+        "label": "Hartmut Bodeit",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73329",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hartmut-bodeit"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59444,
+        "entity_type": "electoral_data",
+        "label": "Hartmut Bodeit (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 19,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 608,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10884,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58518,
+      "entity_type": "candidacy_mandate",
+      "label": "Rainer Bensch (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58518",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73317,
+        "entity_type": "politician",
+        "label": "Rainer Bensch",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73317",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/rainer-bensch"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59442,
+        "entity_type": "electoral_data",
+        "label": "Rainer Bensch (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 17,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 3461,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10882,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58517,
+      "entity_type": "candidacy_mandate",
+      "label": "Recai Aytas (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58517",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 165976,
+        "entity_type": "politician",
+        "label": "Recai Aytas",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/165976",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/recai-aytas"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59441,
+        "entity_type": "electoral_data",
+        "label": "Recai Aytas (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 21,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1592,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10881,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58516,
+      "entity_type": "candidacy_mandate",
+      "label": "Yvonne Averwerser (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58516",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 166045,
+        "entity_type": "politician",
+        "label": "Yvonne Averwerser",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/166045",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/yvonne-averwerser"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59440,
+        "entity_type": "electoral_data",
+        "label": "Yvonne Averwerser (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1158,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10880,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58514,
+      "entity_type": "candidacy_mandate",
+      "label": "Selin Ece Arpaz (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58514",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 179652,
+        "entity_type": "politician",
+        "label": "Selin Ece Arpaz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179652",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/selin-ece-arpaz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59438,
+        "entity_type": "electoral_data",
+        "label": "Selin Ece Arpaz (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 12,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 780,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10878,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58513,
+      "entity_type": "candidacy_mandate",
+      "label": "Sandra Ahrens (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58513",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73310,
+        "entity_type": "politician",
+        "label": "Sandra Ahrens",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73310",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sandra-ahrens"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59437,
+        "entity_type": "electoral_data",
+        "label": "Sandra Ahrens (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 1794,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10877,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 364,
+            "entity_type": "fraction",
+            "label": "CDU (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/364"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 58512,
+      "entity_type": "candidacy_mandate",
+      "label": "Elombo Bolayela (Bremen 2023 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58512",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 146,
+        "entity_type": "parliament_period",
+        "label": "Bremen 2023 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/146",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bremen"
+      },
+      "politician": {
+        "id": 73812,
+        "entity_type": "politician",
+        "label": "Elombo Bolayela",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/73812",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/elombo-bolayela"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 59436,
+        "entity_type": "electoral_data",
+        "label": "Elombo Bolayela (Bremen 2023 - 2027)",
+        "electoral_list": {
+          "id": 550,
+          "entity_type": "electoral_list",
+          "label": "Wahlbereich Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/550"
+        },
+        "list_position": 34,
+        "constituency": {
+          "id": 12286,
+          "entity_type": "constituency",
+          "label": "1 - Bremen (Bremen 2023 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/12286"
+        },
+        "constituency_result": null,
+        "constituency_result_count": 3107,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10876,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 363,
+            "entity_type": "fraction",
+            "label": "SPD (Bremen 2023 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/363"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    }
+  ]
+}

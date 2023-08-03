@@ -1,0 +1,4229 @@
+{
+  "meta": {
+    "abgeordnetenwatch_api": {
+      "version": "2.5",
+      "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+      "licence": "CC0 1.0",
+      "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/candidacy-mandate"
+    },
+    "status": "ok",
+    "status_message": "",
+    "result": {
+      "count": 69,
+      "total": 69,
+      "range_start": 0,
+      "range_end": 100
+    }
+  },
+  "data": [
+    {
+      "id": 58602,
+      "entity_type": "candidacy_mandate",
+      "label": "Marion Schiefer (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/58602",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 179812,
+        "entity_type": "politician",
+        "label": "Marion Schiefer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179812",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/marion-schiefer"
+      },
+      "start_date": "2023-06-13",
+      "end_date": null,
+      "info": "Nachgerückt für Tim Brockmann.",
+      "electoral_data": {
+        "id": 59526,
+        "entity_type": "electoral_data",
+        "label": "Marion Schiefer (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 26,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10971,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 13.06.2023",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": "2023-06-13",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56411,
+      "entity_type": "candidacy_mandate",
+      "label": "Oliver Brandt (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56411",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 179141,
+        "entity_type": "politician",
+        "label": "Oliver Brandt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179141",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/oliver-brandt"
+      },
+      "start_date": "2022-07-13",
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57335,
+        "entity_type": "electoral_data",
+        "label": "Oliver Brandt (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 6,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10643,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen seit 13.07.2022",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": "2022-07-13",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56407,
+      "entity_type": "candidacy_mandate",
+      "label": "Cornelia Schmachtenberg (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56407",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 179140,
+        "entity_type": "politician",
+        "label": "Cornelia Schmachtenberg",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179140",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/cornelia-schmachtenberg"
+      },
+      "start_date": "2022-06-30",
+      "end_date": null,
+      "info": "Nachgerückt für Dr. Otto Carstens.",
+      "electoral_data": {
+        "id": 57331,
+        "entity_type": "electoral_data",
+        "label": "Cornelia Schmachtenberg (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 8,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10639,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 30.06.2022",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": "2022-06-30",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56406,
+      "entity_type": "candidacy_mandate",
+      "label": "Bina Braun (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56406",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 179139,
+        "entity_type": "politician",
+        "label": "Bina Braun",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179139",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/bina-braun"
+      },
+      "start_date": "2022-06-30",
+      "end_date": null,
+      "info": "Nachgerückt für Joschka Knuth.",
+      "electoral_data": {
+        "id": 57330,
+        "entity_type": "electoral_data",
+        "label": "Bina Braun (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 17,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10638,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen seit 30.06.2022",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": "2022-06-30",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56405,
+      "entity_type": "candidacy_mandate",
+      "label": "Ulrike Täck (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56405",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 147237,
+        "entity_type": "politician",
+        "label": "Ulrike Täck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/147237",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ulrike-taeck"
+      },
+      "start_date": "2022-06-30",
+      "end_date": null,
+      "info": "Nachgerückt für Monika Heinold.",
+      "electoral_data": {
+        "id": 57329,
+        "entity_type": "electoral_data",
+        "label": "Ulrike Täck (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10637,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen seit 30.06.2022",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": "2022-06-30",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56404,
+      "entity_type": "candidacy_mandate",
+      "label": "Anette Röttger (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56404",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130961,
+        "entity_type": "politician",
+        "label": "Anette Röttger",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130961",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/anette-roettger"
+      },
+      "start_date": "2022-06-30",
+      "end_date": null,
+      "info": "Nachgerückt für Tobias von der Heide.",
+      "electoral_data": {
+        "id": 57328,
+        "entity_type": "electoral_data",
+        "label": "Anette Röttger (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10636,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 30.06.2022",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": "2022-06-30",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56403,
+      "entity_type": "candidacy_mandate",
+      "label": "Katja Rathje-Hoffmann (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56403",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130834,
+        "entity_type": "politician",
+        "label": "Katja Rathje-Hoffmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130834",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/katja-rathje-hoffmann"
+      },
+      "start_date": "2022-06-30",
+      "end_date": null,
+      "info": "Nachgerückt für Johannes Callsen.",
+      "electoral_data": {
+        "id": 57327,
+        "entity_type": "electoral_data",
+        "label": "Katja Rathje-Hoffmann (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": null,
+        "list_position": null,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "moved_up"
+      },
+      "fraction_membership": [
+        {
+          "id": 10635,
+          "entity_type": "fraction_membership",
+          "label": "CDU seit 30.06.2022",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": "2022-06-30",
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56193,
+      "entity_type": "candidacy_mandate",
+      "label": "Jan Kürschner (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56193",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 179136,
+        "entity_type": "politician",
+        "label": "Jan Kürschner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/179136",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jan-kuerschner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57117,
+        "entity_type": "electoral_data",
+        "label": "Jan Kürschner (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 12,
+        "constituency": null,
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      }
+    },
+    {
+      "id": 56192,
+      "entity_type": "candidacy_mandate",
+      "label": "Lasse Petersdotter (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56192",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130872,
+        "entity_type": "politician",
+        "label": "Lasse Petersdotter",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130872",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/lasse-petersdotter"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57116,
+        "entity_type": "electoral_data",
+        "label": "Lasse Petersdotter (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11716,
+          "entity_type": "constituency",
+          "label": "12 - Kiel-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11716"
+        },
+        "constituency_result": 32,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10416,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56191,
+      "entity_type": "candidacy_mandate",
+      "label": "Hauke Göttsch (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56191",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130817,
+        "entity_type": "politician",
+        "label": "Hauke Göttsch",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130817",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hauke-goettsch"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57115,
+        "entity_type": "electoral_data",
+        "label": "Hauke Göttsch (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 35,
+        "constituency": {
+          "id": 11713,
+          "entity_type": "constituency",
+          "label": "9 - Rendsburg-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11713"
+        },
+        "constituency_result": 42,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10415,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56190,
+      "entity_type": "candidacy_mandate",
+      "label": "Andrea Tschacher (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56190",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130744,
+        "entity_type": "politician",
+        "label": "Andrea Tschacher",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130744",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/andrea-tschacher"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57114,
+        "entity_type": "electoral_data",
+        "label": "Andrea Tschacher (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 11739,
+          "entity_type": "constituency",
+          "label": "35 - Lauenburg-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11739"
+        },
+        "constituency_result": 42,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10414,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56189,
+      "entity_type": "candidacy_mandate",
+      "label": "Rasmus Vöge (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56189",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139361,
+        "entity_type": "politician",
+        "label": "Rasmus Vöge",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139361",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/rasmus-voege"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57113,
+        "entity_type": "electoral_data",
+        "label": "Rasmus Vöge (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 19,
+        "constituency": {
+          "id": 11738,
+          "entity_type": "constituency",
+          "label": "34 - Lauenburg-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11738"
+        },
+        "constituency_result": 40,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10413,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56188,
+      "entity_type": "candidacy_mandate",
+      "label": "Jasper Balke (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56188",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178250,
+        "entity_type": "politician",
+        "label": "Jasper Balke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178250",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jasper-balke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57112,
+        "entity_type": "electoral_data",
+        "label": "Jasper Balke (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 11737,
+          "entity_type": "constituency",
+          "label": "33 - Lübeck-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11737"
+        },
+        "constituency_result": 34,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10412,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56187,
+      "entity_type": "candidacy_mandate",
+      "label": "Dagmar Hildebrand (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56187",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130773,
+        "entity_type": "politician",
+        "label": "Dagmar Hildebrand",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130773",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/dagmar-hildebrand"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57111,
+        "entity_type": "electoral_data",
+        "label": "Dagmar Hildebrand (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 16,
+        "constituency": {
+          "id": 11736,
+          "entity_type": "constituency",
+          "label": "32 - Lübeck-West (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11736"
+        },
+        "constituency_result": 31,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10411,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56186,
+      "entity_type": "candidacy_mandate",
+      "label": "Hermann Junghans (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56186",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178188,
+        "entity_type": "politician",
+        "label": "Hermann Junghans",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178188",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hermann-junghans"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57110,
+        "entity_type": "electoral_data",
+        "label": "Hermann Junghans (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 41,
+        "constituency": {
+          "id": 11735,
+          "entity_type": "constituency",
+          "label": "31 - Lübeck-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11735"
+        },
+        "constituency_result": 36,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10410,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56185,
+      "entity_type": "candidacy_mandate",
+      "label": "Lukas Kilian (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56185",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130963,
+        "entity_type": "politician",
+        "label": "Lukas Kilian",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130963",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/lukas-kilian"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57109,
+        "entity_type": "electoral_data",
+        "label": "Lukas Kilian (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11734,
+          "entity_type": "constituency",
+          "label": "30 - Stormarn-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11734"
+        },
+        "constituency_result": 44,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10409,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56184,
+      "entity_type": "candidacy_mandate",
+      "label": "Tobias Koch (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56184",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130997,
+        "entity_type": "politician",
+        "label": "Tobias Koch",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130997",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/tobias-koch"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57108,
+        "entity_type": "electoral_data",
+        "label": "Tobias Koch (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11733,
+          "entity_type": "constituency",
+          "label": "29 - Stormarn-Mitte (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11733"
+        },
+        "constituency_result": 40,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10408,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56183,
+      "entity_type": "candidacy_mandate",
+      "label": "Claus Christian Claussen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56183",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130916,
+        "entity_type": "politician",
+        "label": "Claus Christian Claussen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130916",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/claus-christian-claussen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57107,
+        "entity_type": "electoral_data",
+        "label": "Claus Christian Claussen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 23,
+        "constituency": {
+          "id": 11732,
+          "entity_type": "constituency",
+          "label": "28 - Stormarn-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11732"
+        },
+        "constituency_result": 45,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10407,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56182,
+      "entity_type": "candidacy_mandate",
+      "label": "Patrick Pender (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56182",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178187,
+        "entity_type": "politician",
+        "label": "Patrick Pender",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178187",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/patrick-pender"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57106,
+        "entity_type": "electoral_data",
+        "label": "Patrick Pender (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 49,
+        "constituency": {
+          "id": 11731,
+          "entity_type": "constituency",
+          "label": "27 - Norderstedt (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11731"
+        },
+        "constituency_result": 39,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10406,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56181,
+      "entity_type": "candidacy_mandate",
+      "label": "Sönke Siebke (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56181",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178186,
+        "entity_type": "politician",
+        "label": "Sönke Siebke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178186",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/soenke-siebke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57105,
+        "entity_type": "electoral_data",
+        "label": "Sönke Siebke (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 45,
+        "constituency": {
+          "id": 11730,
+          "entity_type": "constituency",
+          "label": "26 - Segeberg-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11730"
+        },
+        "constituency_result": 48,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10405,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56180,
+      "entity_type": "candidacy_mandate",
+      "label": "Ole-Christopher Plambeck (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56180",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130836,
+        "entity_type": "politician",
+        "label": "Ole-Christopher Plambeck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130836",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/ole-christopher-plambeck"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57104,
+        "entity_type": "electoral_data",
+        "label": "Ole-Christopher Plambeck (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 11,
+        "constituency": {
+          "id": 11729,
+          "entity_type": "constituency",
+          "label": "25 - Segeberg-West (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11729"
+        },
+        "constituency_result": 45,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10404,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56179,
+      "entity_type": "candidacy_mandate",
+      "label": "Karin Prien (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56179",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 66388,
+        "entity_type": "politician",
+        "label": "Karin Prien",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/66388",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/karin-prien"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57103,
+        "entity_type": "electoral_data",
+        "label": "Karin Prien (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11728,
+          "entity_type": "constituency",
+          "label": "24 - Pinneberg (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11728"
+        },
+        "constituency_result": 38,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10403,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56178,
+      "entity_type": "candidacy_mandate",
+      "label": "Martin Balasus (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56178",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178185,
+        "entity_type": "politician",
+        "label": "Martin Balasus",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178185",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/martin-balasus"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57102,
+        "entity_type": "electoral_data",
+        "label": "Martin Balasus (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 43,
+        "constituency": {
+          "id": 11727,
+          "entity_type": "constituency",
+          "label": "23 - Pinneberg-Elbmarschen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11727"
+        },
+        "constituency_result": 43,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10402,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56177,
+      "entity_type": "candidacy_mandate",
+      "label": "Peter Lehnert (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56177",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130942,
+        "entity_type": "politician",
+        "label": "Peter Lehnert",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130942",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/peter-lehnert"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57101,
+        "entity_type": "electoral_data",
+        "label": "Peter Lehnert (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 13,
+        "constituency": {
+          "id": 11726,
+          "entity_type": "constituency",
+          "label": "22 - Pinneberg-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11726"
+        },
+        "constituency_result": 44,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10401,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56176,
+      "entity_type": "candidacy_mandate",
+      "label": "Birte Glißmann (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56176",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130830,
+        "entity_type": "politician",
+        "label": "Birte Glißmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130830",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/birte-glissmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57100,
+        "entity_type": "electoral_data",
+        "label": "Birte Glißmann (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11725,
+          "entity_type": "constituency",
+          "label": "21 - Elmshorn (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11725"
+        },
+        "constituency_result": 41,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10400,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56175,
+      "entity_type": "candidacy_mandate",
+      "label": "Heiner Rickers (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56175",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130832,
+        "entity_type": "politician",
+        "label": "Heiner Rickers",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130832",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/heiner-rickers"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57099,
+        "entity_type": "electoral_data",
+        "label": "Heiner Rickers (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 17,
+        "constituency": {
+          "id": 11724,
+          "entity_type": "constituency",
+          "label": "20 - Steinburg-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11724"
+        },
+        "constituency_result": 49,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10399,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56173,
+      "entity_type": "candidacy_mandate",
+      "label": "Wiebke Zweig (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56173",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178183,
+        "entity_type": "politician",
+        "label": "Wiebke Zweig",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178183",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/wiebke-zweig"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57097,
+        "entity_type": "electoral_data",
+        "label": "Wiebke Zweig (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 14,
+        "constituency": {
+          "id": 11722,
+          "entity_type": "constituency",
+          "label": "18 - Ostholstein-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11722"
+        },
+        "constituency_result": 45,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10397,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56172,
+      "entity_type": "candidacy_mandate",
+      "label": "Peer Knöfler (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56172",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130941,
+        "entity_type": "politician",
+        "label": "Peer Knöfler",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130941",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/peer-knoefler"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57096,
+        "entity_type": "electoral_data",
+        "label": "Peer Knöfler (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 27,
+        "constituency": {
+          "id": 11721,
+          "entity_type": "constituency",
+          "label": "17 - Ostholstein-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11721"
+        },
+        "constituency_result": 46,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10396,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56170,
+      "entity_type": "candidacy_mandate",
+      "label": "Werner Kalinka (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56170",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130880,
+        "entity_type": "politician",
+        "label": "Werner Kalinka",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130880",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/werner-kalinka"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57094,
+        "entity_type": "electoral_data",
+        "label": "Werner Kalinka (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 15,
+        "constituency": {
+          "id": 11719,
+          "entity_type": "constituency",
+          "label": "15 - Plön-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11719"
+        },
+        "constituency_result": 40,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10394,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56169,
+      "entity_type": "candidacy_mandate",
+      "label": "Seyran Papo (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56169",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139364,
+        "entity_type": "politician",
+        "label": "Seyran Papo",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139364",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/seyran-papo"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57093,
+        "entity_type": "electoral_data",
+        "label": "Seyran Papo (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 18,
+        "constituency": {
+          "id": 11718,
+          "entity_type": "constituency",
+          "label": "14 - Kiel-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11718"
+        },
+        "constituency_result": 29,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10393,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56168,
+      "entity_type": "candidacy_mandate",
+      "label": "Anna Langsch (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56168",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178235,
+        "entity_type": "politician",
+        "label": "Anna Langsch",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178235",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/anna-langsch"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57092,
+        "entity_type": "electoral_data",
+        "label": "Anna Langsch (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 13,
+        "constituency": {
+          "id": 11717,
+          "entity_type": "constituency",
+          "label": "13 - Kiel-West (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11717"
+        },
+        "constituency_result": 31,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10392,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56167,
+      "entity_type": "candidacy_mandate",
+      "label": "Hauke Hansen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56167",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178182,
+        "entity_type": "politician",
+        "label": "Hauke Hansen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178182",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/hauke-hansen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57091,
+        "entity_type": "electoral_data",
+        "label": "Hauke Hansen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 37,
+        "constituency": {
+          "id": 11715,
+          "entity_type": "constituency",
+          "label": "11 - Neumünster (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11715"
+        },
+        "constituency_result": 43,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10391,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56166,
+      "entity_type": "candidacy_mandate",
+      "label": "Rixa Kleinschmit (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56166",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178181,
+        "entity_type": "politician",
+        "label": "Rixa Kleinschmit",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178181",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/rixa-kleinschmit"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57090,
+        "entity_type": "electoral_data",
+        "label": "Rixa Kleinschmit (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 12,
+        "constituency": {
+          "id": 11714,
+          "entity_type": "constituency",
+          "label": "10 - Rendsburg (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11714"
+        },
+        "constituency_result": 44,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10390,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56165,
+      "entity_type": "candidacy_mandate",
+      "label": "Daniel Günther (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56165",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130775,
+        "entity_type": "politician",
+        "label": "Daniel Günther",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130775",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/daniel-guenther"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57089,
+        "entity_type": "electoral_data",
+        "label": "Daniel Günther (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11712,
+          "entity_type": "constituency",
+          "label": "8 - Eckernförde (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11712"
+        },
+        "constituency_result": 58,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10389,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56164,
+      "entity_type": "candidacy_mandate",
+      "label": "Volker Nielsen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56164",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 131012,
+        "entity_type": "politician",
+        "label": "Volker Nielsen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/131012",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/volker-nielsen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57088,
+        "entity_type": "electoral_data",
+        "label": "Volker Nielsen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 31,
+        "constituency": {
+          "id": 11711,
+          "entity_type": "constituency",
+          "label": "7 - Dithmarschen-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11711"
+        },
+        "constituency_result": 47,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10388,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56163,
+      "entity_type": "candidacy_mandate",
+      "label": "Andreas Hein (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56163",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130877,
+        "entity_type": "politician",
+        "label": "Andreas Hein",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130877",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/andreas-hein"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57087,
+        "entity_type": "electoral_data",
+        "label": "Andreas Hein (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 25,
+        "constituency": {
+          "id": 11710,
+          "entity_type": "constituency",
+          "label": "6 - Dithmarschen-Schleswig (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11710"
+        },
+        "constituency_result": 48,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10387,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56161,
+      "entity_type": "candidacy_mandate",
+      "label": "Thomas Jepsen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56161",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 147592,
+        "entity_type": "politician",
+        "label": "Thomas Jepsen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/147592",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/thomas-jepsen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57085,
+        "entity_type": "electoral_data",
+        "label": "Thomas Jepsen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 39,
+        "constituency": {
+          "id": 11708,
+          "entity_type": "constituency",
+          "label": "4 - Flensburg-Land (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11708"
+        },
+        "constituency_result": 38,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10385,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56160,
+      "entity_type": "candidacy_mandate",
+      "label": "Uta Wentzel (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56160",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178180,
+        "entity_type": "politician",
+        "label": "Uta Wentzel",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178180",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/uta-wentzel"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57084,
+        "entity_type": "electoral_data",
+        "label": "Uta Wentzel (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 20,
+        "constituency": {
+          "id": 11707,
+          "entity_type": "constituency",
+          "label": "3 - Flensburg (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11707"
+        },
+        "constituency_result": 26,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10384,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56159,
+      "entity_type": "candidacy_mandate",
+      "label": "Michel Deckmann (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56159",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178179,
+        "entity_type": "politician",
+        "label": "Michel Deckmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178179",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/michel-deckmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57083,
+        "entity_type": "electoral_data",
+        "label": "Michel Deckmann (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 47,
+        "constituency": {
+          "id": 11706,
+          "entity_type": "constituency",
+          "label": "2 - Nordfriesland-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11706"
+        },
+        "constituency_result": 40,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10383,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56158,
+      "entity_type": "candidacy_mandate",
+      "label": "Manfred Uekermann (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56158",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178178,
+        "entity_type": "politician",
+        "label": "Manfred Uekermann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178178",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/manfred-uekermann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57082,
+        "entity_type": "electoral_data",
+        "label": "Manfred Uekermann (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 29,
+        "constituency": {
+          "id": 11705,
+          "entity_type": "constituency",
+          "label": "1 - Nordfriesland-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11705"
+        },
+        "constituency_result": 43,
+        "constituency_result_count": null,
+        "mandate_won": "constituency"
+      },
+      "fraction_membership": [
+        {
+          "id": 10382,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56157,
+      "entity_type": "candidacy_mandate",
+      "label": "Beate Raudies (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56157",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139283,
+        "entity_type": "politician",
+        "label": "Beate Raudies",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139283",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/beate-raudies"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57081,
+        "entity_type": "electoral_data",
+        "label": "Beate Raudies (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 8,
+        "constituency": {
+          "id": 11725,
+          "entity_type": "constituency",
+          "label": "21 - Elmshorn (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11725"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10381,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56156,
+      "entity_type": "candidacy_mandate",
+      "label": "Birte Pauls (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56156",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139029,
+        "entity_type": "politician",
+        "label": "Birte Pauls",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139029",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/birte-pauls"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57080,
+        "entity_type": "electoral_data",
+        "label": "Birte Pauls (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 12,
+        "constituency": {
+          "id": 11709,
+          "entity_type": "constituency",
+          "label": "5 - Schleswig (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11709"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10380,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56155,
+      "entity_type": "candidacy_mandate",
+      "label": "Sybilla Nitsch (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56155",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130990,
+        "entity_type": "politician",
+        "label": "Sybilla Nitsch",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130990",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sybilla-nitsch"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57079,
+        "entity_type": "electoral_data",
+        "label": "Sybilla Nitsch (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 504,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SSW (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/504"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11705,
+          "entity_type": "constituency",
+          "label": "1 - Nordfriesland-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11705"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10379,
+          "entity_type": "fraction_membership",
+          "label": "SSW",
+          "fraction": {
+            "id": 347,
+            "entity_type": "fraction",
+            "label": "SSW (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/347"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56154,
+      "entity_type": "candidacy_mandate",
+      "label": "Jette Waldinger-Thiering (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56154",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139118,
+        "entity_type": "politician",
+        "label": "Jette Waldinger-Thiering",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139118",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/jette-waldinger-thiering"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57078,
+        "entity_type": "electoral_data",
+        "label": "Jette Waldinger-Thiering (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 504,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SSW (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/504"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11712,
+          "entity_type": "constituency",
+          "label": "8 - Eckernförde (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11712"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10378,
+          "entity_type": "fraction_membership",
+          "label": "SSW",
+          "fraction": {
+            "id": 347,
+            "entity_type": "fraction",
+            "label": "SSW (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/347"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56153,
+      "entity_type": "candidacy_mandate",
+      "label": "Nelly Waldeck (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56153",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178236,
+        "entity_type": "politician",
+        "label": "Nelly Waldeck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178236",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/nelly-waldeck"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57077,
+        "entity_type": "electoral_data",
+        "label": "Nelly Waldeck (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11718,
+          "entity_type": "constituency",
+          "label": "14 - Kiel-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11718"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10377,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56152,
+      "entity_type": "candidacy_mandate",
+      "label": "Christopher Vogt (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56152",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139042,
+        "entity_type": "politician",
+        "label": "Christopher Vogt",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139042",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christopher-vogt"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57076,
+        "entity_type": "electoral_data",
+        "label": "Christopher Vogt (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 503,
+          "entity_type": "electoral_list",
+          "label": "Landesliste FDP (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/503"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11738,
+          "entity_type": "constituency",
+          "label": "34 - Lauenburg-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11738"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10376,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 345,
+            "entity_type": "fraction",
+            "label": "FDP (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/345"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56151,
+      "entity_type": "candidacy_mandate",
+      "label": "Oliver Kumbartzky (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56151",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130937,
+        "entity_type": "politician",
+        "label": "Oliver Kumbartzky",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130937",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/oliver-kumbartzky"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57075,
+        "entity_type": "electoral_data",
+        "label": "Oliver Kumbartzky (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 503,
+          "entity_type": "electoral_list",
+          "label": "Landesliste FDP (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/503"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11711,
+          "entity_type": "constituency",
+          "label": "7 - Dithmarschen-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11711"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10375,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 345,
+            "entity_type": "fraction",
+            "label": "FDP (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/345"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56149,
+      "entity_type": "candidacy_mandate",
+      "label": "Marc Timmer (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56149",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178210,
+        "entity_type": "politician",
+        "label": "Marc Timmer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178210",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/marc-timmer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57073,
+        "entity_type": "electoral_data",
+        "label": "Marc Timmer (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 7,
+        "constituency": {
+          "id": 11706,
+          "entity_type": "constituency",
+          "label": "2 - Nordfriesland-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11706"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10373,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56148,
+      "entity_type": "candidacy_mandate",
+      "label": "Sophia Schiebe (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56148",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178225,
+        "entity_type": "politician",
+        "label": "Sophia Schiebe",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178225",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sophia-schiebe"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57072,
+        "entity_type": "electoral_data",
+        "label": "Sophia Schiebe (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 4,
+        "constituency": {
+          "id": 11736,
+          "entity_type": "constituency",
+          "label": "32 - Lübeck-West (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11736"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10372,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56147,
+      "entity_type": "candidacy_mandate",
+      "label": "Uta Röpcke (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56147",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 131010,
+        "entity_type": "politician",
+        "label": "Uta Röpcke",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/131010",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/uta-roepcke"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57071,
+        "entity_type": "electoral_data",
+        "label": "Uta Röpcke (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 11,
+        "constituency": {
+          "id": 11739,
+          "entity_type": "constituency",
+          "label": "35 - Lauenburg-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11739"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10371,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56146,
+      "entity_type": "candidacy_mandate",
+      "label": "Malte Krüger (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56146",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178241,
+        "entity_type": "politician",
+        "label": "Malte Krüger",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178241",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/malte-krueger"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57070,
+        "entity_type": "electoral_data",
+        "label": "Malte Krüger (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 14,
+        "constituency": {
+          "id": 11723,
+          "entity_type": "constituency",
+          "label": "19 - Mittelholstein (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11723"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10370,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56145,
+      "entity_type": "candidacy_mandate",
+      "label": "Annabell Krämer (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56145",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130738,
+        "entity_type": "politician",
+        "label": "Annabell Krämer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130738",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/annabell-kraemer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57069,
+        "entity_type": "electoral_data",
+        "label": "Annabell Krämer (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 503,
+          "entity_type": "electoral_list",
+          "label": "Landesliste FDP (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/503"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11726,
+          "entity_type": "constituency",
+          "label": "22 - Pinneberg-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11726"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10369,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 345,
+            "entity_type": "fraction",
+            "label": "FDP (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/345"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56144,
+      "entity_type": "candidacy_mandate",
+      "label": "Dirk Kock-Rohwer (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56144",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178238,
+        "entity_type": "politician",
+        "label": "Dirk Kock-Rohwer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178238",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/dirk-kock-rohwer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57068,
+        "entity_type": "electoral_data",
+        "label": "Dirk Kock-Rohwer (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 11720,
+          "entity_type": "constituency",
+          "label": "16 - Plön-Ostholstein (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11720"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10368,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56142,
+      "entity_type": "candidacy_mandate",
+      "label": "Eka von Kalben (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56142",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 121173,
+        "entity_type": "politician",
+        "label": "Eka von Kalben",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/121173",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/eka-von-kalben"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57066,
+        "entity_type": "electoral_data",
+        "label": "Eka von Kalben (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11726,
+          "entity_type": "constituency",
+          "label": "22 - Pinneberg-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11726"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10366,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56141,
+      "entity_type": "candidacy_mandate",
+      "label": "Serpil Midyatli (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56141",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139273,
+        "entity_type": "politician",
+        "label": "Serpil Midyatli",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139273",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/serpil-midyatli"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57065,
+        "entity_type": "electoral_data",
+        "label": "Serpil Midyatli (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11718,
+          "entity_type": "constituency",
+          "label": "14 - Kiel-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11718"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10365,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56140,
+      "entity_type": "candidacy_mandate",
+      "label": "Sandra Redmann (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56140",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139217,
+        "entity_type": "politician",
+        "label": "Sandra Redmann",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139217",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/sandra-redmann"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57064,
+        "entity_type": "electoral_data",
+        "label": "Sandra Redmann (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11722,
+          "entity_type": "constituency",
+          "label": "18 - Ostholstein-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11722"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10364,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56139,
+      "entity_type": "candidacy_mandate",
+      "label": "Thomas Hölck (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56139",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139235,
+        "entity_type": "politician",
+        "label": "Thomas Hölck",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139235",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/thomas-hoelck"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57063,
+        "entity_type": "electoral_data",
+        "label": "Thomas Hölck (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 11,
+        "constituency": {
+          "id": 11727,
+          "entity_type": "constituency",
+          "label": "23 - Pinneberg-Elbmarschen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11727"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10363,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56138,
+      "entity_type": "candidacy_mandate",
+      "label": "Birgit Herdejürgen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56138",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139027,
+        "entity_type": "politician",
+        "label": "Birgit Herdejürgen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139027",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/birgit-herdejuergen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57062,
+        "entity_type": "electoral_data",
+        "label": "Birgit Herdejürgen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 10,
+        "constituency": {
+          "id": 11724,
+          "entity_type": "constituency",
+          "label": "20 - Steinburg-Ost (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11724"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10362,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56137,
+      "entity_type": "candidacy_mandate",
+      "label": "Kristina Herbst (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56137",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139341,
+        "entity_type": "politician",
+        "label": "Kristina Herbst",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139341",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kristina-herbst"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57061,
+        "entity_type": "electoral_data",
+        "label": "Kristina Herbst (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 500,
+          "entity_type": "electoral_list",
+          "label": "Landesliste CDU (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/500"
+        },
+        "list_position": 6,
+        "constituency": {
+          "id": 11717,
+          "entity_type": "constituency",
+          "label": "13 - Kiel-West (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11717"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10361,
+          "entity_type": "fraction_membership",
+          "label": "CDU",
+          "fraction": {
+            "id": 343,
+            "entity_type": "fraction",
+            "label": "CDU (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/343"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56134,
+      "entity_type": "candidacy_mandate",
+      "label": "Catharina Nies (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56134",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178240,
+        "entity_type": "politician",
+        "label": "Catharina Nies",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178240",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/catharina-nies"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57058,
+        "entity_type": "electoral_data",
+        "label": "Catharina Nies (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 9,
+        "constituency": {
+          "id": 11722,
+          "entity_type": "constituency",
+          "label": "18 - Ostholstein-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11722"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10358,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56133,
+      "entity_type": "candidacy_mandate",
+      "label": "Lars Harms (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56133",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139148,
+        "entity_type": "politician",
+        "label": "Lars Harms",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139148",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/lars-harms"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57057,
+        "entity_type": "electoral_data",
+        "label": "Lars Harms (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 504,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SSW (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/504"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11706,
+          "entity_type": "constituency",
+          "label": "2 - Nordfriesland-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11706"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10357,
+          "entity_type": "fraction_membership",
+          "label": "SSW",
+          "fraction": {
+            "id": 347,
+            "entity_type": "fraction",
+            "label": "SSW (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/347"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56132,
+      "entity_type": "candidacy_mandate",
+      "label": "Thomas Losse-Müller (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56132",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178215,
+        "entity_type": "politician",
+        "label": "Thomas Losse-Müller",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178215",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/thomas-losse-mueller"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57056,
+        "entity_type": "electoral_data",
+        "label": "Thomas Losse-Müller (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11712,
+          "entity_type": "constituency",
+          "label": "8 - Eckernförde (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11712"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10356,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56131,
+      "entity_type": "candidacy_mandate",
+      "label": "Martin Habersaat (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56131",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139160,
+        "entity_type": "politician",
+        "label": "Martin Habersaat",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139160",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/martin-habersaat"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57055,
+        "entity_type": "electoral_data",
+        "label": "Martin Habersaat (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11734,
+          "entity_type": "constituency",
+          "label": "30 - Stormarn-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11734"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10355,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56130,
+      "entity_type": "candidacy_mandate",
+      "label": "Heinrich Garg (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56130",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139056,
+        "entity_type": "politician",
+        "label": "Heinrich Garg",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139056",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/heinrich-garg"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57054,
+        "entity_type": "electoral_data",
+        "label": "Heinrich Garg (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 503,
+          "entity_type": "electoral_list",
+          "label": "Landesliste FDP (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/503"
+        },
+        "list_position": 2,
+        "constituency": {
+          "id": 11716,
+          "entity_type": "constituency",
+          "label": "12 - Kiel-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11716"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10354,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 345,
+            "entity_type": "fraction",
+            "label": "FDP (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/345"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56129,
+      "entity_type": "candidacy_mandate",
+      "label": "Niclas Dürbrook (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56129",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178219,
+        "entity_type": "politician",
+        "label": "Niclas Dürbrook",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178219",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/niclas-duerbrook"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57053,
+        "entity_type": "electoral_data",
+        "label": "Niclas Dürbrook (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 9,
+        "constituency": {
+          "id": 11721,
+          "entity_type": "constituency",
+          "label": "17 - Ostholstein-Nord (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11721"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10353,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56128,
+      "entity_type": "candidacy_mandate",
+      "label": "Kai Dolgner (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56128",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 139058,
+        "entity_type": "politician",
+        "label": "Kai Dolgner",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/139058",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/kai-dolgner"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57052,
+        "entity_type": "electoral_data",
+        "label": "Kai Dolgner (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 501,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SPD (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/501"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11714,
+          "entity_type": "constituency",
+          "label": "10 - Rendsburg (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11714"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10352,
+          "entity_type": "fraction_membership",
+          "label": "SPD",
+          "fraction": {
+            "id": 346,
+            "entity_type": "fraction",
+            "label": "SPD (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/346"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56127,
+      "entity_type": "candidacy_mandate",
+      "label": "Christian Dirschauer (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56127",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 130756,
+        "entity_type": "politician",
+        "label": "Christian Dirschauer",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/130756",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/christian-dirschauer"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57051,
+        "entity_type": "electoral_data",
+        "label": "Christian Dirschauer (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 504,
+          "entity_type": "electoral_list",
+          "label": "Landesliste SSW (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/504"
+        },
+        "list_position": 3,
+        "constituency": {
+          "id": 11707,
+          "entity_type": "constituency",
+          "label": "3 - Flensburg (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11707"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10351,
+          "entity_type": "fraction_membership",
+          "label": "SSW",
+          "fraction": {
+            "id": 347,
+            "entity_type": "fraction",
+            "label": "SSW (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/347"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56126,
+      "entity_type": "candidacy_mandate",
+      "label": "Bernd Buchholz (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56126",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 121092,
+        "entity_type": "politician",
+        "label": "Bernd Buchholz",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/121092",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/bernd-buchholz"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57050,
+        "entity_type": "electoral_data",
+        "label": "Bernd Buchholz (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 503,
+          "entity_type": "electoral_list",
+          "label": "Landesliste FDP (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/503"
+        },
+        "list_position": 1,
+        "constituency": {
+          "id": 11733,
+          "entity_type": "constituency",
+          "label": "29 - Stormarn-Mitte (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11733"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10350,
+          "entity_type": "fraction_membership",
+          "label": "FDP",
+          "fraction": {
+            "id": 345,
+            "entity_type": "fraction",
+            "label": "FDP (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/345"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    },
+    {
+      "id": 56125,
+      "entity_type": "candidacy_mandate",
+      "label": "Silke Backsen (Schleswig-Holstein 2022 - 2027)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/56125",
+      "id_external_administration": null,
+      "id_external_administration_description": null,
+      "type": "mandate",
+      "parliament_period": {
+        "id": 138,
+        "entity_type": "parliament_period",
+        "label": "Schleswig-Holstein 2022 - 2027",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/138",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/schleswig-holstein"
+      },
+      "politician": {
+        "id": 178229,
+        "entity_type": "politician",
+        "label": "Silke Backsen",
+        "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/178229",
+        "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/silke-backsen"
+      },
+      "start_date": null,
+      "end_date": null,
+      "info": null,
+      "electoral_data": {
+        "id": 57049,
+        "entity_type": "electoral_data",
+        "label": "Silke Backsen (Schleswig-Holstein 2022 - 2027)",
+        "electoral_list": {
+          "id": 502,
+          "entity_type": "electoral_list",
+          "label": "Landesliste Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/502"
+        },
+        "list_position": 5,
+        "constituency": {
+          "id": 11706,
+          "entity_type": "constituency",
+          "label": "2 - Nordfriesland-Süd (Schleswig-Holstein 2022 - 2027)",
+          "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/11706"
+        },
+        "constituency_result": null,
+        "constituency_result_count": null,
+        "mandate_won": "list"
+      },
+      "fraction_membership": [
+        {
+          "id": 10349,
+          "entity_type": "fraction_membership",
+          "label": "Bündnis 90/Die Grünen",
+          "fraction": {
+            "id": 344,
+            "entity_type": "fraction",
+            "label": "Bündnis 90/Die Grünen (Schleswig-Holstein 2022 - 2027)",
+            "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/344"
+          },
+          "valid_from": null,
+          "valid_until": null
+        }
+      ]
+    }
+  ]
+}

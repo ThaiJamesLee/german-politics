@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "abgeordnetenwatch_api": {
+      "version": "2.5",
+      "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+      "licence": "CC0 1.0",
+      "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/parliament-period"
+    },
+    "status": "ok",
+    "status_message": "",
+    "result": {
+      "entity_id": "126",
+      "entity_type": "parliament_period"
+    }
+  },
+  "data": {
+    "id": 126,
+    "entity_type": "parliament_period",
+    "label": "Baden-Württemberg 2021 - 2026",
+    "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/126",
+    "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/baden-wuerttemberg",
+    "parliament": {
+      "id": 6,
+      "entity_type": "parliament",
+      "label": "Baden-Württemberg",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliaments/6",
+      "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/baden-wuerttemberg"
+    },
+    "previous_period": {
+      "id": 123,
+      "entity_type": "parliament_period",
+      "label": "Baden-Württemberg Wahl 2021",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/123",
+      "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/baden-wuerttemberg/wahl-2021"
+    },
+    "type": "legislature",
+    "election_date": null,
+    "start_date_period": "2021-05-17",
+    "end_date_period": "2026-03-13"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "other": [
+    {
+      "parliament": "Bundestag",
+      "externalName": "Bundestag",
+      "id": 5
+    },
+    {
+      "parliament": "Berlin",
+      "externalName": "Abgeordnetenhaus Berlin",
+      "id": 2
+    },
+    {
+      "parliament": "EU-Parlament",
+      "externalName": "EU-Parlament",
+      "id": 1
+    }
+  ],
+  "landtage": [
+    {
+      "parliament": "Schleswig-Holstein",
+      "externalName": "Landtag Schleswig-Holstein",
+      "id": 18
+    },
+    {
+      "parliament": "Sachsen",
+      "externalName": "Landtag Sachsen",
+      "id": 17
+    },
+    {
+      "parliament": "Brandenburg",
+      "externalName": "Landtag Brandenburg",
+      "id": 16
+    },
+    {
+      "parliament": "Thüringen",
+      "externalName": "Landtag Thüringen",
+      "id": 15
+    },
+    {
+      "parliament": "Saarland",
+      "externalName": "Landtag Saarland",
+      "id": 14
+    },
+    {
+      "parliament": "Bayern",
+      "externalName": "Landtag Bayern",
+      "id": 13
+    },
+    {
+      "parliament": "Niedersachsen",
+      "externalName": "Landtag Niedersachsen",
+      "id": 12
+    },
+    {
+      "parliament": "Hessen",
+      "externalName": "Landtag Hessen",
+      "id": 11
+    },
+    {
+      "parliament": "Mecklenburg-Vorpommern",
+      "externalName": "Landtag Mecklenburg-Vorpommern",
+      "id": 9
+    },
+    {
+      "parliament": "Sachsen-Anhalt",
+      "externalName": "Landtag Sachsen-Anhalt",
+      "id": 8
+    },
+    {
+      "parliament": "Rheinland-Pfalz",
+      "externalName": "Landtag Rheinland-Pfalz",
+      "id": 7
+    },
+    {
+      "parliament": "Baden-Württemberg",
+      "externalName": "Landtag Baden-Württemberg",
+      "id": 6
+    },
+    {
+      "parliament": "Nordrhein-Westfalen",
+      "externalName": "Landtag Nordrhein-Westfalen",
+      "id": 4
+    }
+  ],
+  "buergerschaften": [
+    {
+      "parliament": "Bremen",
+      "externalName": "Bürgerschaft Bremen",
+      "id": 10
+    },
+    {
+      "parliament": "Hamburg",
+      "externalName": "Bürgerschaft Hamburg",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "abgeordnetenwatch_api": {
+      "version": "2.5",
+      "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+      "licence": "CC0 1.0",
+      "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/parliament-period"
+    },
+    "status": "ok",
+    "status_message": "",
+    "result": {
+      "entity_id": "115",
+      "entity_type": "parliament_period"
+    }
+  },
+  "data": {
+    "id": 115,
+    "entity_type": "parliament_period",
+    "label": "Bayern 2018 - 2023",
+    "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/115",
+    "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bayern",
+    "parliament": {
+      "id": 13,
+      "entity_type": "parliament",
+      "label": "Bayern",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliaments/13",
+      "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bayern"
+    },
+    "previous_period": {
+      "id": 54,
+      "entity_type": "parliament_period",
+      "label": "Bayern Wahl 2018",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/54",
+      "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bayern/wahl-2018"
+    },
+    "type": "legislature",
+    "election_date": null,
+    "start_date_period": "2018-11-02",
+    "end_date_period": "2023-10-30"
+  }
+}
