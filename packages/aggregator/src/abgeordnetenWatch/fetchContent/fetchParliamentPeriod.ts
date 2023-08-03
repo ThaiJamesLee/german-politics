@@ -1,5 +1,6 @@
 import { ParliamentPeriodResult, ParliamentsCollectionResult } from '../types';
 import { customFetch, writeFileAndArchive } from '../../utils';
+import { progressString, promiseDelay } from './utils';
 
 import { DATA_DIR } from '../constants';
 import { fetchMandatesByParliamentPeriod } from './fetchMandates';
@@ -30,7 +31,7 @@ export async function fetchParliamentPeriodsAndMandates(): Promise<void> {
   const directory = join(DATA_DIR, 'parliaments');
 
   const downloadTasks = [];
-
+  let i = 1;
   for (const parliament of parliaments.data) {
     downloadTasks.push(
       writeFileAndArchive(
@@ -57,6 +58,11 @@ export async function fetchParliamentPeriodsAndMandates(): Promise<void> {
         join(directory, 'mandates'),
       ),
     );
+    await promiseDelay(10);
+    process.stdout.cursorTo(0);
+    process.stdout.clearLine(0);
+    process.stdout.write(progressString(i, parliaments.data.length));
+    i++;
   }
 
   await Promise.all(downloadTasks);

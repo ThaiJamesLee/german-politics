@@ -3,8 +3,8 @@ import {
   PoliticianResult,
 } from '../types/politician';
 import { customFetch, writeFileAndArchive } from '../../utils';
-import { downloadBatch, promiseDelay } from './utils';
 import { existsSync, readFileSync } from 'fs';
+import { progressString, promiseDelay } from './utils';
 
 import { CandidacyMandate } from '../types/mandate';
 import { DATA_DIR } from '../constants';
@@ -197,7 +197,7 @@ export async function fetchAllPoliticiansFromParliaments(): Promise<void> {
   for (const mandate of mandates) {
     process.stdout.cursorTo(0);
     process.stdout.clearLine(0);
-    process.stdout.write(`Progress: ${i}/${mandates.length}`);
+    process.stdout.write(progressString(i, mandates.length));
     downloadTasks.push(await fetchPoliticanById(mandate.politician.id));
     promiseDelay(10);
     i++;
