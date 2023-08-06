@@ -48,7 +48,9 @@ async function getPartiesByParliament(): Promise<PartiesByParliament> {
       );
 
       if (!politician) {
-        errors.push(`Could not find politician with the id ${id}`);
+        errors.push(
+          `Could not find politician with the id "${id}" in "${parliament}"`,
+        );
         continue;
       }
 
@@ -64,6 +66,10 @@ async function getPartiesByParliament(): Promise<PartiesByParliament> {
     }
 
     metric[parliament] = Object.values(membersByParty);
+  }
+
+  if (errors.length) {
+    console.log(errors.join('\n'));
   }
 
   return metric;

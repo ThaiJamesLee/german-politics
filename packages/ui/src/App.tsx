@@ -17,15 +17,17 @@ function App() {
     <QueryClientProvider client={queryClient} contextSharing={true}>
       <BrowserRouter basename={PUBLIC_URL}>
         <CustomShellBar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/parliament/:parliamentId" element={<Parliament />} />
-          <Route path="/parliament/Landtage" element={<Landtage />} />
-          <Route
-            path={`/parliament/Bürgerschaften`}
-            element={<Buergerschaften />}
-          />
-        </Routes>
+        <div id="app">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/parliament/:parliamentId" element={<Parliament />} />
+            <Route path="/parliament/Landtage" element={<Landtage />} />
+            <Route
+              path={`/parliament/Bürgerschaften`}
+              element={<Buergerschaften />}
+            />
+          </Routes>
+        </div>
       </BrowserRouter>
     </QueryClientProvider>
   );

@@ -1,4 +1,10 @@
-import { List, StandardListItem, Title } from "@ui5/webcomponents-react";
+import {
+  Card,
+  CardHeader,
+  List,
+  StandardListItem,
+  Title,
+} from "@ui5/webcomponents-react";
 import {
   fetchParliaments,
   fetchPoliticiansByParliaments,
@@ -48,15 +54,19 @@ const Buergerschaften = () => {
     <CustomPage>
       <Title>Bürgerschaften</Title>
       {`Total Number of Politicians: ${politicians}`}
-      <PieChart
-        dataset={numberPoliticianByBuergerschaften}
-        dimension={{
-          accessor: "name",
-        }}
-        measure={{
-          accessor: "numbers",
-        }}
-      />
+      <Card
+        header={<CardHeader titleText="Number of Members in Bürgerschaften" />}
+      >
+        <PieChart
+          dataset={numberPoliticianByBuergerschaften}
+          dimension={{
+            accessor: "name",
+          }}
+          measure={{
+            accessor: "numbers",
+          }}
+        />
+      </Card>
       <List title="Bürgerschaften">
         {parliaments.data?.buergerschaften.map((entry) => {
           return (

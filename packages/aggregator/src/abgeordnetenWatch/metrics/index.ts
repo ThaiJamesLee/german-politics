@@ -6,5 +6,3 @@ export async function createMetrics(): Promise<void> {
   await createPoliticiansByParliamentMetric(today);
   await createPartiesByParliamentsMetrics(today);
 }
-
-createMetrics();

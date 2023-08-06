@@ -2,6 +2,7 @@ import {
   Card,
   CardHeader,
   NumericSideIndicator,
+  Text,
   Title,
 } from "@ui5/webcomponents-react";
 import {
@@ -40,7 +41,7 @@ const Parliament = () => {
   return (
     <CustomPage>
       <Title>{parliamentId}</Title>
-      <div>{`Total Number of Politicians: ${politicians}`}</div>
+      <Text>{`Total Number of Politicians: ${politicians}`}</Text>
       <Card
         header={
           <CardHeader titleText={`Number of Members in ${parliamentId}`}>
