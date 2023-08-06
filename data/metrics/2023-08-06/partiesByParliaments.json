@@ -1,0 +1,518 @@
+{
+  "Bürgerschaft Bremen": [
+    {
+      "party": "DIE LINKE",
+      "members": 10
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 10
+    },
+    {
+      "party": "SPD",
+      "members": 27
+    },
+    {
+      "party": "CDU",
+      "members": 24
+    },
+    {
+      "party": "FDP",
+      "members": 5
+    },
+    {
+      "party": "Bürger in Wut",
+      "members": 9
+    },
+    {
+      "party": "parteilos",
+      "members": 2
+    }
+  ],
+  "Bürgerschaft Hamburg": [
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 27
+    },
+    {
+      "party": "SPD",
+      "members": 44
+    },
+    {
+      "party": "AfD",
+      "members": 3
+    },
+    {
+      "party": "FDP",
+      "members": 2
+    },
+    {
+      "party": "CDU",
+      "members": 15
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 9
+    }
+  ],
+  "Landtag Schleswig-Holstein": [
+    {
+      "party": "CDU",
+      "members": 34
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 14
+    },
+    {
+      "party": "SPD",
+      "members": 12
+    },
+    {
+      "party": "SSW",
+      "members": 4
+    },
+    {
+      "party": "FDP",
+      "members": 5
+    }
+  ],
+  "Landtag Sachsen": [
+    {
+      "party": "CDU",
+      "members": 40
+    },
+    {
+      "party": "SPD",
+      "members": 8
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 11
+    },
+    {
+      "party": "AfD",
+      "members": 29
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 9
+    },
+    {
+      "party": "parteilos",
+      "members": 2
+    },
+    {
+      "party": "Bündnis Deutschland",
+      "members": 1
+    }
+  ],
+  "Landtag Brandenburg": [
+    {
+      "party": "SPD",
+      "members": 25
+    },
+    {
+      "party": "AfD",
+      "members": 23
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 10
+    },
+    {
+      "party": "CDU",
+      "members": 15
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 10
+    },
+    {
+      "party": "BVB - Freie Wähler",
+      "members": 5
+    },
+    {
+      "party": "parteilos",
+      "members": 1
+    }
+  ],
+  "Landtag Thüringen": [
+    {
+      "party": "AfD",
+      "members": 21
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 29
+    },
+    {
+      "party": "SPD",
+      "members": 8
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 5
+    },
+    {
+      "party": "FDP",
+      "members": 4
+    },
+    {
+      "party": "CDU",
+      "members": 21
+    },
+    {
+      "party": "Bürger für Thüringen",
+      "members": 1
+    },
+    {
+      "party": "parteilos",
+      "members": 1
+    }
+  ],
+  "Landtag Saarland": [
+    {
+      "party": "CDU",
+      "members": 20
+    },
+    {
+      "party": "SPD",
+      "members": 29
+    },
+    {
+      "party": "AfD",
+      "members": 3
+    }
+  ],
+  "Landtag Bayern": [
+    {
+      "party": "CSU",
+      "members": 28
+    },
+    {
+      "party": "AfD",
+      "members": 14
+    },
+    {
+      "party": "FREIE WÄHLER",
+      "members": 12
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 28
+    },
+    {
+      "party": "FDP",
+      "members": 8
+    },
+    {
+      "party": "SPD",
+      "members": 6
+    },
+    {
+      "party": "parteilos",
+      "members": 4
+    }
+  ],
+  "Landtag Niedersachsen": [
+    {
+      "party": "SPD",
+      "members": 19
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 23
+    },
+    {
+      "party": "AfD",
+      "members": 18
+    },
+    {
+      "party": "CDU",
+      "members": 40
+    }
+  ],
+  "Landtag Hessen": [
+    {
+      "party": "SPD",
+      "members": 20
+    },
+    {
+      "party": "CDU",
+      "members": 24
+    },
+    {
+      "party": "FDP",
+      "members": 10
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 7
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 20
+    },
+    {
+      "party": "AfD",
+      "members": 17
+    },
+    {
+      "party": "Bündnis Deutschland",
+      "members": 2
+    }
+  ],
+  "Landtag Mecklenburg-Vorpommern": [
+    {
+      "party": "DIE LINKE",
+      "members": 9
+    },
+    {
+      "party": "SPD",
+      "members": 34
+    },
+    {
+      "party": "CDU",
+      "members": 12
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 5
+    },
+    {
+      "party": "FDP",
+      "members": 5
+    },
+    {
+      "party": "AfD",
+      "members": 14
+    }
+  ],
+  "Landtag Sachsen-Anhalt": [
+    {
+      "party": "SPD",
+      "members": 9
+    },
+    {
+      "party": "AfD",
+      "members": 23
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 6
+    },
+    {
+      "party": "CDU",
+      "members": 40
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 12
+    },
+    {
+      "party": "FDP",
+      "members": 6
+    }
+  ],
+  "Landtag Rheinland-Pfalz": [
+    {
+      "party": "SPD",
+      "members": 38
+    },
+    {
+      "party": "parteilos",
+      "members": 1
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 9
+    },
+    {
+      "party": "FDP",
+      "members": 6
+    },
+    {
+      "party": "FREIE WÄHLER",
+      "members": 6
+    },
+    {
+      "party": "Einzelbewerbung",
+      "members": 1
+    },
+    {
+      "party": "AfD",
+      "members": 8
+    },
+    {
+      "party": "CDU",
+      "members": 30
+    }
+  ],
+  "Landtag Baden-Württemberg": [
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 13
+    },
+    {
+      "party": "AfD",
+      "members": 17
+    },
+    {
+      "party": "CDU",
+      "members": 33
+    },
+    {
+      "party": "FDP",
+      "members": 18
+    },
+    {
+      "party": "SPD",
+      "members": 19
+    }
+  ],
+  "Landtag Nordrhein-Westfalen": [
+    {
+      "party": "SPD",
+      "members": 30
+    },
+    {
+      "party": "FDP",
+      "members": 12
+    },
+    {
+      "party": "CDU",
+      "members": 14
+    },
+    {
+      "party": "AfD",
+      "members": 12
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 32
+    }
+  ],
+  "Bundestag": [
+    {
+      "party": "SPD",
+      "members": 19
+    },
+    {
+      "party": "CDU",
+      "members": 18
+    },
+    {
+      "party": "AfD",
+      "members": 8
+    },
+    {
+      "party": "FDP",
+      "members": 11
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 21
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 7
+    },
+    {
+      "party": "CSU",
+      "members": 14
+    },
+    {
+      "party": "SSW",
+      "members": 1
+    },
+    {
+      "party": "parteilos",
+      "members": 1
+    }
+  ],
+  "Abgeordnetenhaus Berlin": [
+    {
+      "party": "CDU",
+      "members": 36
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 13
+    },
+    {
+      "party": "SPD",
+      "members": 19
+    },
+    {
+      "party": "AfD",
+      "members": 15
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 17
+    }
+  ],
+  "EU-Parlament": [
+    {
+      "party": "SPD",
+      "members": 16
+    },
+    {
+      "party": "Bündnis 90/Die Grünen",
+      "members": 21
+    },
+    {
+      "party": "CDU",
+      "members": 23
+    },
+    {
+      "party": "ÖDP",
+      "members": 1
+    },
+    {
+      "party": "CSU",
+      "members": 6
+    },
+    {
+      "party": "DIE LINKE",
+      "members": 5
+    },
+    {
+      "party": "parteilos",
+      "members": 3
+    },
+    {
+      "party": "AfD",
+      "members": 9
+    },
+    {
+      "party": "Bündnis Deutschland",
+      "members": 1
+    },
+    {
+      "party": "FDP",
+      "members": 5
+    },
+    {
+      "party": "FAMILIEN-PARTEI",
+      "members": 1
+    },
+    {
+      "party": "PIRATEN",
+      "members": 1
+    },
+    {
+      "party": "Volt",
+      "members": 1
+    },
+    {
+      "party": "FREIE WÄHLER",
+      "members": 2
+    },
+    {
+      "party": "Die PARTEI",
+      "members": 1
+    }
+  ]
+}
