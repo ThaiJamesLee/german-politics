@@ -1,22 +1,16 @@
 import "./index.css";
 
-import { QueryClient, QueryClientProvider } from "react-query";
-
 import App from "./App";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import reportWebVitals from "./reportWebVitals";
-
-const queryClient = new QueryClient();
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <QueryClientProvider client={queryClient} contextSharing={true}>
-      <App />
-    </QueryClientProvider>
+    <App />
   </React.StrictMode>
 );
 

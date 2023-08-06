@@ -1,19 +1,29 @@
-import CustomShellBar from "./ShellBar";
-import { Page } from "@ui5/webcomponents-react";
+import { CSSProperties } from "react";
 
-const CustomPage: React.FunctionComponent<{
+interface Properties {
   children: React.ReactNode;
-}> = (props: { children: React.ReactNode }) => {
+  style?: CSSProperties;
+  className?: string;
+}
+
+const CustomPage: React.FunctionComponent<Properties> = ({
+  children,
+  style,
+  className,
+}) => {
   return (
-    <Page>
-      <CustomShellBar />
-      <div
-        className="content"
-        style={{ position: "absolute", width: "100%", height: "80%" }}
-      >
-        {props.children}
-      </div>
-    </Page>
+    <div
+      className={className}
+      style={{
+        padding: "40px",
+        display: "flex",
+        gap: "30px",
+        flexDirection: "column",
+        ...style,
+      }}
+    >
+      {children}
+    </div>
   );
 };
 

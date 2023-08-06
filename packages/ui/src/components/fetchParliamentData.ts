@@ -15,3 +15,9 @@ type Parliaments = {
 export async function fetchParliaments(): Promise<Parliaments> {
   return customFetch<Parliaments>("/data/parliaments/parliaments.json");
 }
+
+export async function fetchPoliticiansByParliaments(): Promise<{
+  [key: string]: number[];
+}> {
+  return customFetch("/data/metrics/politiciansByParliament.json");
+}

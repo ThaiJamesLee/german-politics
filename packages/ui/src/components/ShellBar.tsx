@@ -5,19 +5,46 @@ import {
   StandardListItem,
 } from "@ui5/webcomponents-react";
 
+import { useNavigate } from "react-router-dom";
+
 const CustomShellBar = () => {
+  const navigate = useNavigate();
+
+  const onLogoClickHandler = () => {
+    navigate("/");
+  };
+
+  const onClickListItemHandler = (parliamentId: string) => {
+    navigate(`/parliament/${parliamentId}`);
+  };
+
+  const parliaments = [
+    "Bundestag",
+    "EU-Parlament",
+    "Landtage",
+    "Bürgerschaften",
+  ];
+
   return (
     <ShellBar
-      logo={<img alt="Windcut Logo" src="/windcut-logo.png" />}
+      logo={
+        <img
+          alt="Windcut Logo"
+          src="https://thaijameslee.github.io/german-politics/windcut-logo.png"
+        />
+      }
+      onLogoClick={onLogoClickHandler}
       menuItems={
         <>
-          <StandardListItem key={"Bundestag"}>Bundestag</StandardListItem>
-          <StandardListItem key={"EU-Parlament"}>EU-Parlament</StandardListItem>
-          <StandardListItem key={"Landtage"}>Landtage</StandardListItem>
-          <StandardListItem key={"Bürgerschaften"}>
-            Bürgerschaften
-          </StandardListItem>
+          {parliaments.map((entry) => {
+            return (
+              <StandardListItem data-key={entry}>{entry}</StandardListItem>
+            );
+          })}
         </>
+      }
+      onMenuItemClick={(e) =>
+        onClickListItemHandler(e.detail.item.dataset.key || "")
       }
       primaryTitle="Parliaments"
       searchField={

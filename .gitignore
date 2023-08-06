@@ -4,3 +4,4 @@ reports
 packages/**/data
 build
 data
+packages/**/build
