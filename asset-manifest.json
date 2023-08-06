@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/german-politics/static/css/main.33434841.css",
-    "main.js": "/german-politics/static/js/main.5c26e62d.js",
+    "main.js": "/german-politics/static/js/main.a332242c.js",
     "static/js/787.349b0e60.chunk.js": "/german-politics/static/js/787.349b0e60.chunk.js",
     "index.html": "/german-politics/index.html",
     "main.33434841.css.map": "/german-politics/static/css/main.33434841.css.map",
-    "main.5c26e62d.js.map": "/german-politics/static/js/main.5c26e62d.js.map",
+    "main.a332242c.js.map": "/german-politics/static/js/main.a332242c.js.map",
     "787.349b0e60.chunk.js.map": "/german-politics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33434841.css",
-    "static/js/main.5c26e62d.js"
+    "static/js/main.a332242c.js"
   ]
 }
