@@ -27,12 +27,7 @@ const CustomShellBar = () => {
 
   return (
     <ShellBar
-      logo={
-        <img
-          alt="Windcut Logo"
-          src="https://thaijameslee.github.io/german-politics/windcut-logo.png"
-        />
-      }
+      logo={<img alt="Windcut Logo" src="./windcut-logo.png" />}
       onLogoClick={onLogoClickHandler}
       menuItems={
         <>

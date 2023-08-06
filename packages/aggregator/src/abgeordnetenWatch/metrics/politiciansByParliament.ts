@@ -4,6 +4,7 @@ import { CandidacyMandateCollectionResults } from '../types/mandate';
 import { existsSync } from 'fs';
 import { join } from 'path';
 import { progressString } from '../fetchContent/utils';
+import { readDataFile } from './utils';
 import { readFile } from 'fs/promises';
 import { writeFileAndArchive } from '../../utils';
 
@@ -22,11 +23,7 @@ type Parliaments = {
 async function readParliaments(
   file = join(DATA_DIR, 'parliaments', 'parliaments.json'),
 ): Promise<Parliaments> {
-  if (existsSync(file)) {
-    return JSON.parse(await readFile(file, { encoding: 'utf-8' }));
-  }
-
-  throw new Error(`Could not find file ${file}.`);
+  return readDataFile(file);
 }
 
 async function getPoliticiansByParliament(
@@ -48,10 +45,8 @@ async function getPoliticiansByParliament(
 
     parliamentPoliticianMap[parliament] = [];
 
-    const mandates: CandidacyMandateCollectionResults = JSON.parse(
-      await readFile(join(mandateDir, `Mandates-${parliament}.json`), {
-        encoding: 'utf-8',
-      }),
+    const mandates: CandidacyMandateCollectionResults = await readDataFile(
+      join(mandateDir, `Mandates-${parliament}.json`),
     );
 
     for (const mandate of mandates.data) {

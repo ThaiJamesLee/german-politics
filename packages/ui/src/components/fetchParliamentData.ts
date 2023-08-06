@@ -21,3 +21,16 @@ export async function fetchPoliticiansByParliaments(): Promise<{
 }> {
   return customFetch("/data/metrics/politiciansByParliament.json");
 }
+
+export type PartiesByParliament = {
+  // Parliament
+  [key: string]: {
+    // Party and number of members
+    party: string;
+    members: number;
+  }[];
+};
+
+export async function fetchPartiesByParliament(): Promise<PartiesByParliament> {
+  return customFetch("/data/metrics/partiesByParliaments.json");
+}

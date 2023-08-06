@@ -1,4 +1,11 @@
-import { List, StandardListItem } from "@ui5/webcomponents-react";
+import {
+  Card,
+  CardHeader,
+  List,
+  NumericSideIndicator,
+  StandardListItem,
+  Title,
+} from "@ui5/webcomponents-react";
 import {
   fetchParliaments,
   fetchPoliticiansByParliaments,
@@ -7,9 +14,16 @@ import {
 import CustomPage from "../components/Page";
 import { PieChart } from "@ui5/webcomponents-react-charts";
 import { useMemo } from "react";
+import { useNavigate } from "react-router-dom";
 import { useQuery } from "react-query";
 
 const Landtage = () => {
+  const navigate = useNavigate();
+
+  const onClickParliamentHandler = (parliamentId: string) => {
+    navigate(`/parliament/${parliamentId}`);
+  };
+
   const parliaments = useQuery("parliaments", fetchParliaments);
   const politiciansByParliament = useQuery(
     "politiciansByParliament",
@@ -39,20 +53,35 @@ const Landtage = () => {
 
   return (
     <CustomPage>
-      {`Total Number of Politicians: ${politicians}`}
-      <PieChart
-        dataset={numberPoliticianByLandtag}
-        dimension={{
-          accessor: "name",
-        }}
-        measure={{
-          accessor: "numbers",
-        }}
-      />
+      <Title>Landtage</Title>
+
+      <Card
+        header={
+          <CardHeader titleText={`Number of Members in Landtage`}>
+            <NumericSideIndicator
+              number={politicians}
+              titleText="Total Number of Politicians"
+            />
+          </CardHeader>
+        }
+      >
+        <PieChart
+          dataset={numberPoliticianByLandtag}
+          dimension={{
+            accessor: "name",
+          }}
+          measure={{
+            accessor: "numbers",
+          }}
+        />
+      </Card>
       <List title="Landtage">
         {parliaments.data?.landtage.map((entry) => {
           return (
-            <StandardListItem key={entry.externalName}>
+            <StandardListItem
+              key={entry.externalName}
+              onClick={onClickParliamentHandler.bind(null, entry.externalName)}
+            >
               {entry.externalName}
             </StandardListItem>
           );

@@ -25,7 +25,7 @@ export interface PoliticianCollectionResults {
 
 export interface PoliticianResult {
   meta: Metadata;
-  data: Politician[];
+  data: Politician;
 }
 
 export interface PoliticianLink extends BaseObject {
