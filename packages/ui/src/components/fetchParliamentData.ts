@@ -34,3 +34,25 @@ export type PartiesByParliament = {
 export async function fetchPartiesByParliament(): Promise<PartiesByParliament> {
   return customFetch("/data/metrics/partiesByParliaments.json");
 }
+
+export type Politician = {
+  meta: unknown;
+  data: {
+    id: number;
+    label: string;
+    sex: string;
+    year_of_birth: number;
+    party: {
+      id: number;
+      label: string;
+    };
+    first_name: string;
+    last_name: string;
+    qid_wikidata: string | null;
+    abgeordnetenwatch_url: string;
+  };
+};
+
+export async function fetchAllPoliticians(): Promise<Politician[]> {
+  return customFetch("/data/politicians/politicians.json");
+}

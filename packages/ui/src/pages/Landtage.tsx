@@ -1,6 +1,8 @@
 import {
   Card,
   CardHeader,
+  FlexBox,
+  FlexBoxWrap,
   List,
   StandardListItem,
   Text,
@@ -80,14 +82,13 @@ const Landtage = () => {
     <CustomPage>
       <Title>Landtage</Title>
       <Text>{`Total Number of Politicians: ${politicians}`}</Text>
-      <div style={{ display: "flex", gap: "30px" }}>
+      <FlexBox wrap={FlexBoxWrap.Wrap} style={{ gap: "30px" }}>
         <Card
           header={
             <CardHeader
               titleText={`Number of Members in Landtage`}
             ></CardHeader>
           }
-          style={{ width: "600px" }}
         >
           <PieChart
             dataset={numberPoliticianByLandtag}
@@ -99,11 +100,12 @@ const Landtage = () => {
             }}
           />
         </Card>
+      </FlexBox>
+      <FlexBox wrap={FlexBoxWrap.Wrap}>
         <Card
           header={
             <CardHeader titleText="Overall party members in all Landtage"></CardHeader>
           }
-          style={{ width: "600px" }}
         >
           <PieChart
             dataset={memberPartyDistributionInAllLandtage}
@@ -111,19 +113,24 @@ const Landtage = () => {
             measure={{ accessor: "members" }}
           />
         </Card>
-      </div>
-      <List title="Landtage">
-        {parliaments.data?.landtage.map((entry) => {
-          return (
-            <StandardListItem
-              key={entry.externalName}
-              onClick={onClickParliamentHandler.bind(null, entry.externalName)}
-            >
-              {entry.externalName}
-            </StandardListItem>
-          );
-        })}
-      </List>
+      </FlexBox>
+      <FlexBox wrap={FlexBoxWrap.Wrap}>
+        <List title="Landtage">
+          {parliaments.data?.landtage.map((entry) => {
+            return (
+              <StandardListItem
+                key={entry.externalName}
+                onClick={onClickParliamentHandler.bind(
+                  null,
+                  entry.externalName
+                )}
+              >
+                {entry.externalName}
+              </StandardListItem>
+            );
+          })}
+        </List>
+      </FlexBox>
     </CustomPage>
   );
 };

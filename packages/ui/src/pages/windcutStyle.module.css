@@ -1,0 +1,3 @@
+div[data-component-name="AnalyticalTableVerticalScrollbarContainer"] {
+    width: var(--sapScrollBar_Dimension)
+}
